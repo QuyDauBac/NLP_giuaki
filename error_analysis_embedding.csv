@@ -1,0 +1,33 @@
+﻿tập,qid,mục,câu hỏi,thật,đoán,nguyên nhân,chi tiết
+clean,Q032-06,Q032,Mình bị ốm không đi thi được thì liên hệ phòng nào?,thi_diem,ky_tuc_xa,từ khóa gây nhầm,'phòng' nghiêng về ky_tuc_xa
+clean,Q032-13,Q032,"Em bị ốm không đi thi được, vậy hạn xử lý là bao lâu?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'bị' nghiêng về ky_tuc_xa
+clean,Q032-15,Q032,"Bạn ơi, bị ốm không đi thi được thì có hạn chót không?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'bị' nghiêng về ky_tuc_xa
+clean,Q032-23,Q032,"Bạn ơi, bị ốm không đi thi được thì hết bao nhiêu vậy?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'hết' nghiêng về ky_tuc_xa
+clean,Q066-05,Q066,"Em quên mật khẩu không đăng nhập được, thì làm ở đâu ạ?",thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+clean,Q066-06,Q066,Mình quên mật khẩu không đăng nhập được thì liên hệ phòng nào?,thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['phòng']
+clean,Q066-07,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+clean,Q066-08,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì đơn vị nào giải quyết?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+clean,Q066-14,Q066,Mình quên mật khẩu không đăng nhập được thì phải làm trước khi nào?,thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+clean,Q066-15,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì có hạn chót không?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+clean,Q066-16,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì thời gian nộp hồ sơ ra sao?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+clean,Q066-22,Q066,Mình quên mật khẩu không đăng nhập được thì có phải đóng phí không?,thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+clean,Q066-23,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì hết bao nhiêu vậy?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+clean,Q066-24,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q031-03,Q031,Nơi tiếp nhận document phúc khảo bài thi là đâu ạ?,thi_diem,tot_nghiep,nhiễu,"từ ngoài từ vựng: ['document', 'phúc', 'khảo']"
+noisy,Q032-06,Q032,Mình bị ốm không đi thi được thì liên hệ phòng nào?,thi_diem,ky_tuc_xa,từ khóa gây nhầm,'phòng' nghiêng về ky_tuc_xa
+noisy,Q032-13,Q032,"Em bị ốm không đi thi được, vậy hạn xử lý là bao lâu?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'bị' nghiêng về ky_tuc_xa
+noisy,Q032-15,Q032,"Bạn ơi, bị ốm không đi thi được thì có hạn chót không?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'bị' nghiêng về ky_tuc_xa
+noisy,Q032-16,Q032,"Cho hỏi, bị ốm không đi thi được thì thời gian submit document ra sao?",thi_diem,ctsv,nhiễu,"từ ngoài từ vựng: ['ốm', 'submit', 'document']"
+noisy,Q032-23,Q032,"Bạn ơi, bị ốm không đi thi được thì hết bao nhiêu vậy?",thi_diem,ky_tuc_xa,từ khóa gây nhầm,'hết' nghiêng về ky_tuc_xa
+noisy,Q066-03,Q066,Nơi tiếp nhận document cấp lại mật khẩu cổng thông tin là đâu ạ?,thu_vien_cntt,tot_nghiep,nhiễu,"từ ngoài từ vựng: ['document', 'mật', 'khẩu']"
+noisy,Q066-05,Q066,"Em quên mật khẩu không đăng nhập được, thì làm ở đâu ạ?",thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+noisy,Q066-06,Q066,Mình quên mật khẩu không đăng nhập được thì liên hệ phòng nào?,thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['phòng']
+noisy,Q066-07,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+noisy,Q066-08,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì đơn vị nào giải quyết?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q066-09,Q066,deadline cấp lại mật khẩu cổng thông tin như thế nào?,thu_vien_cntt,thi_diem,nhiễu,"từ ngoài từ vựng: ['mật', 'khẩu', 'cổng']"
+noisy,Q066-14,Q066,Mình quên mật khẩu không đăng nhập được thì phải làm trước khi nào?,thu_vien_cntt,ky_tuc_xa,mơ hồ,từ ủng hộ chủ đề đúng: ['làm']
+noisy,Q066-15,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì có hạn chót không?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q066-16,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì thời gian submit document ra sao?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q066-22,Q066,Mình quên mật khẩu không đăng nhập được thì có phải đóng phí không?,thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q066-23,Q066,"Bạn ơi, quên mật khẩu không đăng nhập được thì hết bao nhiêu vậy?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng
+noisy,Q066-24,Q066,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",thu_vien_cntt,ky_tuc_xa,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng

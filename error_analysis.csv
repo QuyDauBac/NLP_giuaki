@@ -1,0 +1,49 @@
+﻿tập,qid,câu hỏi,thật,đoán,nguyên nhân,chi tiết,mục
+clean,Q066-01,Muốn cấp lại mật khẩu cổng thông tin thì thực hiện ở đâu?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-02,Thủ tục cấp lại mật khẩu cổng thông tin làm tại đơn vị nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-03,Nơi tiếp nhận hồ sơ cấp lại mật khẩu cổng thông tin là đâu ạ?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'nhận' nghiêng về tot_nghiep,Q066
+clean,Q066-04,"Mình cần cấp lại mật khẩu cổng thông tin, phải liên hệ phòng ban nào vậy?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-05,"Em quên mật khẩu không đăng nhập được, thì làm ở đâu ạ?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+clean,Q066-06,Mình quên mật khẩu không đăng nhập được thì liên hệ phòng nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+clean,Q066-07,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+clean,Q066-08,"Cho hỏi, quên mật khẩu không đăng nhập được thì đơn vị nào giải quyết?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-09,Thời hạn cấp lại mật khẩu cổng thông tin như thế nào?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+clean,Q066-10,Hạn chót để cấp lại mật khẩu cổng thông tin là khi nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-11,Mình phải cấp lại mật khẩu cổng thông tin trước thời điểm nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'điểm' nghiêng về thi_diem,Q066
+clean,Q066-12,"Có deadline cho việc cấp lại mật khẩu cổng thông tin không, là bao giờ?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-13,"Em quên mật khẩu không đăng nhập được, vậy hạn xử lý là bao lâu?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-14,Mình quên mật khẩu không đăng nhập được thì phải làm trước khi nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+clean,Q066-15,"Bạn ơi, quên mật khẩu không đăng nhập được thì có hạn chót không?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-16,"Cho hỏi, quên mật khẩu không đăng nhập được thì thời gian nộp hồ sơ ra sao?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-17,Lệ phí cấp lại mật khẩu cổng thông tin là bao nhiêu?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-18,Cấp lại mật khẩu cổng thông tin có mất phí không?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+clean,Q066-19,Chi phí để cấp lại mật khẩu cổng thông tin là bao nhiêu tiền?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+clean,Q066-20,Mình cấp lại mật khẩu cổng thông tin thì phải đóng bao nhiêu?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+clean,Q066-21,"Em quên mật khẩu không đăng nhập được, vậy tốn bao nhiêu tiền?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-22,Mình quên mật khẩu không đăng nhập được thì có phải đóng phí không?,thu_vien_cntt,hoc_phi,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-23,"Bạn ơi, quên mật khẩu không đăng nhập được thì hết bao nhiêu vậy?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+clean,Q066-24,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-01,Muốn cấp lại mật khẩu cổng thông tin thì thực hiện ở đâu?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-02,Thủ tục cấp lại mật khẩu cổng thông tin làm tại đơn vị nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-03,Nơi tiếp nhận document cấp lại mật khẩu cổng thông tin là đâu ạ?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'nhận' nghiêng về tot_nghiep,Q066
+noisy,Q066-04,"Mình cần cấp lại mật khẩu cổng thông tin, phải liên hệ phòng ban nào vậy?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-05,"Em quên mật khẩu không đăng nhập được, thì làm ở đâu ạ?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+noisy,Q066-06,Mình quên mật khẩu không đăng nhập được thì liên hệ phòng nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+noisy,Q066-07,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+noisy,Q066-08,"Cho hỏi, quên mật khẩu không đăng nhập được thì đơn vị nào giải quyết?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-09,deadline cấp lại mật khẩu cổng thông tin như thế nào?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+noisy,Q066-10,Hạn chót để cấp lại mật khẩu cổng thông tin là khi nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-11,Mình phải cấp lại mật khẩu cổng thông tin trước thời grade nào?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+noisy,Q066-12,"Có deadline cho việc cấp lại mật khẩu cổng thông tin không, là bao giờ?",thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-13,"Em quên mật khẩu không đăng nhập được, vậy hạn xử lý là bao lâu?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-14,Mình quên mật khẩu không đăng nhập được thì phải làm trước khi nào?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'nhập' nghiêng về thi_diem,Q066
+noisy,Q066-15,"Bạn ơi, quên mật khẩu không đăng nhập được thì có hạn chót không?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-16,"Cho hỏi, quên mật khẩu không đăng nhập được thì thời gian submit document ra sao?",thu_vien_cntt,dang_ky_hoc_phan,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-17,fee cấp lại mật khẩu cổng thông tin là bao nhiêu?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+noisy,Q066-18,Cấp lại mật khẩu cổng thông tin có mất phí không?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+noisy,Q066-19,Chi phí để cấp lại mật khẩu cổng thông tin là bao nhiêu tiền?,thu_vien_cntt,thi_diem,từ khóa gây nhầm,'lại' nghiêng về thi_diem,Q066
+noisy,Q066-20,Mình cấp lại mật khẩu cổng thông tin thì phải đóng bao nhiêu?,thu_vien_cntt,tot_nghiep,từ khóa gây nhầm,'thông' nghiêng về tot_nghiep,Q066
+noisy,Q066-21,"Em quên mật khẩu không đăng nhập được, vậy tốn bao nhiêu tiền?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-22,Mình quên mật khẩu không đăng nhập được thì có phải đóng phí không?,thu_vien_cntt,hoc_phi,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-23,"Bạn ơi, quên mật khẩu không đăng nhập được thì hết bao nhiêu vậy?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066
+noisy,Q066-24,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",thu_vien_cntt,thi_diem,thiếu ngữ cảnh,không có từ khóa đặc trưng cho chủ đề đúng,Q066

@@ -1,0 +1,31 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q056-19,I056,ky_tuc_xa,phi,ten,Chi phí để đăng ký gửi xe ở ký túc xá là bao nhiêu tiền?,P056,60.000 đồng mỗi tháng
+Q074-21,I074,ctsv,phi,alias,"Em muốn đóng bảo hiểm y tế, vậy tốn bao nhiêu tiền?",P074,680.000 đồng mỗi năm
+Q066-01,I066,thu_vien_cntt,noi,ten,Muốn cấp lại mật khẩu cổng thông tin thì thực hiện ở đâu?,P066,Trung tâm Công nghệ thông tin
+Q078-22,I078,ctsv,phi,alias,Mình muốn vào câu lạc bộ của trường thì có phải đóng phí không?,P078,20.000 đồng phí thành viên
+Q071-05,I071,ctsv,noi,alias,"Em làm mất thẻ sinh viên, thì làm ở đâu ạ?",P071,Phòng Công tác sinh viên
+Q071-24,I071,ctsv,phi,alias,"Cho hỏi, làm mất thẻ sinh viên thì chi phí thế nào?",P071,50.000 đồng
+Q003-06,I003,dang_ky_hoc_phan,noi,alias,Mình lỡ rớt môn muốn học lại thì liên hệ phòng nào?,P003,Phòng Đào tạo
+Q006-18,I006,dang_ky_hoc_phan,phi,ten,Đề nghị mở lớp ngoài kế hoạch có mất phí không?,P006,miễn phí
+Q031-16,I031,thi_diem,han,alias,"Cho hỏi, nghi bài thi bị chấm sai muốn xem lại thì thời gian nộp hồ sơ ra sao?",P031,5 ngày làm việc kể từ ngày công bố điểm
+Q006-03,I006,dang_ky_hoc_phan,noi,ten,Nơi tiếp nhận hồ sơ đề nghị mở lớp ngoài kế hoạch là đâu ạ?,P006,Văn phòng khoa
+Q066-19,I066,thu_vien_cntt,phi,ten,Chi phí để cấp lại mật khẩu cổng thông tin là bao nhiêu tiền?,P066,miễn phí
+Q063-03,I063,thu_vien_cntt,noi,ten,Nơi tiếp nhận hồ sơ gia hạn sách đã mượn là đâu ạ?,P063,Thư viện trung tâm
+Q074-15,I074,ctsv,han,alias,"Bạn ơi, muốn đóng bảo hiểm y tế thì có hạn chót không?",P074,tháng 9 hằng năm
+Q042-07,I042,tot_nghiep,noi,alias,"Bạn ơi, đến lấy bằng sau khi có quyết định thì phải đến đâu để làm thủ tục?",P042,Phòng Đào tạo
+Q018-14,I018,hoc_phi,han,alias,Mình muốn biết mình còn thiếu bao nhiêu tiền thì phải làm trước khi nào?,P018,bất kỳ lúc nào
+Q024-20,I024,hoc_bong,phi,ten,Mình xin trợ cấp xã hội thì phải đóng bao nhiêu?,P024,miễn phí
+Q058-19,I058,ky_tuc_xa,phi,ten,Chi phí để đăng ký người thân đến thăm là bao nhiêu tiền?,P058,miễn phí
+Q058-15,I058,ky_tuc_xa,han,alias,"Bạn ơi, cho người nhà vào ký túc xá thăm mình thì có hạn chót không?",P058,trước giờ thăm 1 ngày
+Q047-19,I047,tot_nghiep,phi,ten,Chi phí để nộp khóa luận tốt nghiệp là bao nhiêu tiền?,P047,miễn phí
+Q018-21,I018,hoc_phi,phi,alias,"Em muốn biết mình còn thiếu bao nhiêu tiền, vậy tốn bao nhiêu tiền?",P018,miễn phí
+Q071-02,I071,ctsv,noi,ten,Thủ tục cấp lại thẻ sinh viên làm tại đơn vị nào?,P071,Phòng Công tác sinh viên
+Q032-23,I032,thi_diem,phi,alias,"Bạn ơi, bị ốm không đi thi được thì hết bao nhiêu vậy?",P032,miễn phí
+Q053-08,I053,ky_tuc_xa,noi,alias,"Cho hỏi, muốn đổi sang phòng khác thì đơn vị nào giải quyết?",P053,Ban quản lý ký túc xá
+Q046-06,I046,tot_nghiep,noi,alias,Mình học quá số năm quy định nhưng chưa xong thì liên hệ phòng nào?,P046,Phòng Đào tạo
+Q006-22,I006,dang_ky_hoc_phan,phi,alias,Mình môn cần học mà không có lớp nên xin mở thêm thì có phải đóng phí không?,P006,miễn phí
+Q058-23,I058,ky_tuc_xa,phi,alias,"Bạn ơi, cho người nhà vào ký túc xá thăm mình thì hết bao nhiêu vậy?",P058,miễn phí
+Q066-24,I066,thu_vien_cntt,phi,alias,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",P066,miễn phí
+Q063-02,I063,thu_vien_cntt,noi,ten,Thủ tục gia hạn sách đã mượn làm tại đơn vị nào?,P063,Thư viện trung tâm
+Q074-04,I074,ctsv,noi,ten,"Mình cần mua bảo hiểm y tế sinh viên, phải liên hệ phòng ban nào vậy?",P074,Phòng Công tác sinh viên
+Q012-14,I012,hoc_phi,han,alias,Mình chưa có tiền đóng học phí nên xin nộp trễ thì phải làm trước khi nào?,P012,trước hạn đóng học phí 3 ngày

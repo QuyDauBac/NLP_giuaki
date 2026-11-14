@@ -1,0 +1,31 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q053-04,I053,ky_tuc_xa,noi,ten,"Mình cần chuyển phòng ký túc xá, phải liên hệ phòng ban nào vậy?",P053,Ban quản lý ký túc xá
+Q010-13,I010,dang_ky_hoc_phan,han,alias,"Em cần đi thực tập ở công ty bên ngoài, vậy hạn xử lý là bao lâu?",P010,4 tuần trước ngày bắt đầu thực tập
+Q071-18,I071,ctsv,phi,ten,Cấp lại thẻ sinh viên có mất phí không?,P071,50.000 đồng
+Q024-13,I024,hoc_bong,han,alias,"Em gia đình khó khăn muốn xin hỗ trợ tiền, vậy hạn xử lý là bao lâu?",P024,45 ngày đầu học kỳ
+Q073-16,I073,ctsv,han,alias,"Cho hỏi, cần giấy tờ để vay tiền ngân hàng đi học thì thời gian nộp hồ sơ ra sao?",P073,3 ngày làm việc
+Q071-16,I071,ctsv,han,alias,"Cho hỏi, làm mất thẻ sinh viên thì thời gian nộp hồ sơ ra sao?",P071,5 ngày làm việc
+Q030-08,I030,hoc_bong,noi,alias,"Cho hỏi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì đơn vị nào giải quyết?",P030,Phòng Công tác sinh viên
+Q010-24,I010,dang_ky_hoc_phan,phi,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì chi phí thế nào?",P010,miễn phí
+Q010-06,I010,dang_ky_hoc_phan,noi,alias,Mình cần đi thực tập ở công ty bên ngoài thì liên hệ phòng nào?,P010,Văn phòng khoa
+Q041-17,I041,tot_nghiep,phi,ten,Lệ phí đăng ký xét tốt nghiệp là bao nhiêu?,P041,100.000 đồng
+Q031-24,I031,thi_diem,phi,alias,"Cho hỏi, nghi bài thi bị chấm sai muốn xem lại thì chi phí thế nào?",P031,50.000 đồng mỗi môn
+Q031-04,I031,thi_diem,noi,ten,"Mình cần phúc khảo bài thi, phải liên hệ phòng ban nào vậy?",P031,Phòng Khảo thí
+Q024-22,I024,hoc_bong,phi,alias,Mình gia đình khó khăn muốn xin hỗ trợ tiền thì có phải đóng phí không?,P024,miễn phí
+Q062-09,I062,thu_vien_cntt,han,ten,Thời hạn mượn giáo trình như thế nào?,P062,mượn tối đa 14 ngày
+Q010-07,I010,dang_ky_hoc_phan,noi,alias,"Bạn ơi, cần đi thực tập ở công ty bên ngoài thì phải đến đâu để làm thủ tục?",P010,Văn phòng khoa
+Q045-17,I045,tot_nghiep,phi,ten,Lệ phí đăng ký dự lễ tốt nghiệp là bao nhiêu?,P045,250.000 đồng phí thuê lễ phục
+Q010-16,I010,dang_ky_hoc_phan,han,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì thời gian nộp hồ sơ ra sao?",P010,4 tuần trước ngày bắt đầu thực tập
+Q035-17,I035,thi_diem,phi,ten,Lệ phí cấp bảng điểm tiếng Anh là bao nhiêu?,P035,50.000 đồng mỗi bản
+Q018-03,I018,hoc_phi,noi,ten,Nơi tiếp nhận hồ sơ tra cứu công nợ học phí là đâu ạ?,P018,cổng thông tin sinh viên
+Q016-18,I016,hoc_phi,phi,ten,Đóng học phí theo đợt có mất phí không?,P016,không tính lãi
+Q018-11,I018,hoc_phi,han,ten,Mình phải tra cứu công nợ học phí trước thời điểm nào?,P018,bất kỳ lúc nào
+Q007-17,I007,dang_ky_hoc_phan,phi,ten,Lệ phí bảo lưu kết quả học tập là bao nhiêu?,P007,100.000 đồng mỗi hồ sơ
+Q053-01,I053,ky_tuc_xa,noi,ten,Muốn chuyển phòng ký túc xá thì thực hiện ở đâu?,P053,Ban quản lý ký túc xá
+Q007-04,I007,dang_ky_hoc_phan,noi,ten,"Mình cần bảo lưu kết quả học tập, phải liên hệ phòng ban nào vậy?",P007,Phòng Đào tạo
+Q061-06,I061,thu_vien_cntt,noi,alias,Mình muốn mượn sách ở thư viện thì liên hệ phòng nào?,P061,Thư viện trung tâm
+Q045-07,I045,tot_nghiep,noi,alias,"Bạn ơi, muốn tham dự buổi lễ trao bằng thì phải đến đâu để làm thủ tục?",P045,Phòng Công tác sinh viên
+Q062-02,I062,thu_vien_cntt,noi,ten,Thủ tục mượn giáo trình làm tại đơn vị nào?,P062,Thư viện trung tâm
+Q031-22,I031,thi_diem,phi,alias,Mình nghi bài thi bị chấm sai muốn xem lại thì có phải đóng phí không?,P031,50.000 đồng mỗi môn
+Q053-13,I053,ky_tuc_xa,han,alias,"Em muốn đổi sang phòng khác, vậy hạn xử lý là bao lâu?",P053,bất kỳ lúc nào trừ tuần thi
+Q031-11,I031,thi_diem,han,ten,Mình phải phúc khảo bài thi trước thời điểm nào?,P031,5 ngày làm việc kể từ ngày công bố điểm

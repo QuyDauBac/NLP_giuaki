@@ -1,0 +1,48 @@
+{
+  "mssv": "24DH190312",
+  "seed": 74634,
+  "noise": "typo",
+  "topic_pair": [
+    "ctsv",
+    "hoc_bong"
+  ],
+  "embed_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "clf_backbone": "vinai/phobert-base-v2",
+  "lora": {
+    "r": 4,
+    "alpha": 8,
+    "dropout": 0.1,
+    "target_modules": [
+      "query",
+      "value"
+    ]
+  },
+  "fewshot_k": 2,
+  "rag_top_k": 2,
+  "ablation": "A4",
+  "dpo": {
+    "beta": 0.1,
+    "logp_pi_chosen": -20.6,
+    "logp_pi_rejected": -38.1,
+    "logp_ref_chosen": -22.8,
+    "logp_ref_rejected": -22.3
+  },
+  "toy_ranking": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+  ],
+  "ablation_desc": "Quét trọng số hybrid alpha = 0.0, 0.1, ..., 1.0 trên tập dev",
+  "check_code": "74695247",
+  "split_info": {
+    "train_items": 58,
+    "test_items": 22,
+    "n_train": 1392,
+    "n_test": 528
+  }
+}

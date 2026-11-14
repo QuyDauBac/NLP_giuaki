@@ -1,0 +1,48 @@
+{
+  "mssv": "24DH190309",
+  "seed": 73533,
+  "noise": "teencode",
+  "topic_pair": [
+    "ctsv",
+    "hoc_bong"
+  ],
+  "embed_model": "bkai-foundation-models/vietnamese-bi-encoder",
+  "clf_backbone": "xlm-roberta-base",
+  "lora": {
+    "r": 8,
+    "alpha": 16,
+    "dropout": 0.1,
+    "target_modules": [
+      "query",
+      "value"
+    ]
+  },
+  "fewshot_k": 4,
+  "rag_top_k": 5,
+  "ablation": "A1",
+  "dpo": {
+    "beta": 0.1,
+    "logp_pi_chosen": -21.7,
+    "logp_pi_rejected": -33.1,
+    "logp_ref_chosen": -23.6,
+    "logp_ref_rejected": -21.9
+  },
+  "toy_ranking": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "ablation_desc": "Bỏ chuẩn hóa Unicode NFC + lowercase ở khâu tiền xử lý (so sánh TF-IDF/BM25)",
+  "check_code": "CD4A20E5",
+  "split_info": {
+    "train_items": 58,
+    "test_items": 22,
+    "n_train": 1392,
+    "n_test": 528
+  }
+}

@@ -1,0 +1,133 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q002-22,I002,dang_ky_hoc_phan,phi,alias,m lỡ đăng ký nhầm môn nên muốn bỏ thì có phải đóng phí ko,P002,miễn phí
+Q002-18,I002,dang_ky_hoc_phan,phi,ten,hủy hp đã đăng ký có mất phí ko,P002,miễn phí
+Q002-17,I002,dang_ky_hoc_phan,phi,ten,lệ phí hủy hp đã đăng ký là bn,P002,miễn phí
+Q002-05,I002,dang_ky_hoc_phan,noi,alias,em lỡ đăng ký nhầm môn nên muốn bỏ thì làm ở đâu ạ,P002,Phòng Đào tạo
+Q002-04,I002,dang_ky_hoc_phan,noi,ten,m cần hủy hp đã đăng ký phải liên hệ phòng ban nào v,P002,Phòng Đào tạo
+Q002-24,I002,dang_ky_hoc_phan,phi,alias,cho hỏi lỡ đăng ký nhầm môn nên muốn bỏ thì chi phí ntn,P002,miễn phí
+Q004-18,I004,dang_ky_hoc_phan,phi,ten,đăng ký học cải thiện điểm có mất phí ko,P004,bằng học phí theo số tín chỉ
+Q004-21,I004,dang_ky_hoc_phan,phi,alias,em điểm môn này thấp muốn học lại cho cao hơn v tốn bn tiền,P004,bằng học phí theo số tín chỉ
+Q004-03,I004,dang_ky_hoc_phan,noi,ten,nơi tiếp nhận hồ sơ đăng ký học cải thiện điểm là đâu ạ,P004,Phòng Đào tạo
+Q004-22,I004,dang_ky_hoc_phan,phi,alias,m điểm môn này thấp muốn học lại cho cao hơn thì có phải đóng phí ko,P004,bằng học phí theo số tín chỉ
+Q004-19,I004,dang_ky_hoc_phan,phi,ten,chi phí để đăng ký học cải thiện điểm là bn tiền,P004,bằng học phí theo số tín chỉ
+Q004-11,I004,dang_ky_hoc_phan,han,ten,m phải đăng ký học cải thiện điểm trước thời điểm nào,P004,trong tuần đầu của học kỳ
+Q010-04,I010,dang_ky_hoc_phan,noi,ten,m cần đăng ký thực tập doanh nghiệp phải liên hệ phòng ban nào v,P010,Văn phòng khoa
+Q010-10,I010,dang_ky_hoc_phan,han,ten,hạn chót để đăng ký thực tập doanh nghiệp là khi nào,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-14,I010,dang_ky_hoc_phan,han,alias,m cần đi thực tập ở công ty bên ngoài thì phải làm trước khi nào,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-12,I010,dang_ky_hoc_phan,han,ten,có deadline cho việc đăng ký thực tập doanh nghiệp ko là bao giờ,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-18,I010,dang_ky_hoc_phan,phi,ten,đăng ký thực tập doanh nghiệp có mất phí ko,P010,miễn phí
+Q010-06,I010,dang_ky_hoc_phan,noi,alias,m cần đi thực tập ở công ty bên ngoài thì liên hệ phòng nào,P010,Văn phòng khoa
+Q012-04,I012,hoc_phi,noi,ten,m cần gia hạn đóng học phí phải liên hệ phòng ban nào v,P012,Phòng Kế hoạch - Tài chính
+Q012-13,I012,hoc_phi,han,alias,em chưa có tiền đóng học phí nên xin nộp trễ v hạn xử lý là bao lâu,P012,trước hạn đóng học phí 3 ngày
+Q012-23,I012,hoc_phi,phi,alias,bạn ơi chưa có tiền đóng học phí nên xin nộp trễ thì hết bn v,P012,miễn phí
+Q012-14,I012,hoc_phi,han,alias,m chưa có tiền đóng học phí nên xin nộp trễ thì phải làm trước khi nào,P012,trước hạn đóng học phí 3 ngày
+Q012-20,I012,hoc_phi,phi,ten,m gia hạn đóng học phí thì phải đóng bn,P012,miễn phí
+Q012-11,I012,hoc_phi,han,ten,m phải gia hạn đóng học phí trước thời điểm nào,P012,trước hạn đóng học phí 3 ngày
+Q018-17,I018,hoc_phi,phi,ten,lệ phí tra cứu công nợ học phí là bn,P018,miễn phí
+Q018-19,I018,hoc_phi,phi,ten,chi phí để tra cứu công nợ học phí là bn tiền,P018,miễn phí
+Q018-06,I018,hoc_phi,noi,alias,m muốn biết m còn thiếu bn tiền thì liên hệ phòng nào,P018,cổng thông tin sinh viên
+Q018-21,I018,hoc_phi,phi,alias,em muốn biết m còn thiếu bn tiền v tốn bn tiền,P018,miễn phí
+Q018-15,I018,hoc_phi,han,alias,bạn ơi muốn biết m còn thiếu bn tiền thì có hạn chót ko,P018,bất kỳ lúc nào
+Q018-16,I018,hoc_phi,han,alias,cho hỏi muốn biết m còn thiếu bn tiền thì thời gian nộp hồ sơ ra sao,P018,bất kỳ lúc nào
+Q019-05,I019,hoc_phi,noi,alias,em bạn người nước ngoài chuyển khoản từ nước ngoài thì làm ở đâu ạ,P019,Phòng Kế hoạch - Tài chính
+Q019-21,I019,hoc_phi,phi,alias,em bạn người nước ngoài chuyển khoản từ nước ngoài v tốn bn tiền,P019,phí chuyển khoản do sinh viên chịu
+Q019-16,I019,hoc_phi,han,alias,cho hỏi bạn người nước ngoài chuyển khoản từ nước ngoài thì thời gian nộp hồ sơ ra sao,P019,20 ngày trước khi học kỳ bắt đầu
+Q019-02,I019,hoc_phi,noi,ten,thủ tục thanh toán học phí cho sv quốc tế làm tại đơn vị nào,P019,Phòng Kế hoạch - Tài chính
+Q019-01,I019,hoc_phi,noi,ten,muốn thanh toán học phí cho sv quốc tế thì thực hiện ở đâu,P019,Phòng Kế hoạch - Tài chính
+Q019-10,I019,hoc_phi,han,ten,hạn chót để thanh toán học phí cho sv quốc tế là khi nào,P019,20 ngày trước khi học kỳ bắt đầu
+Q022-02,I022,hoc_bong,noi,ten,thủ tục xin học bổng doanh nghiệp tài trợ làm tại đơn vị nào,P022,Văn phòng khoa
+Q022-08,I022,hoc_bong,noi,alias,cho hỏi muốn nhận học bổng của công ty thì đơn vị nào giải quyết,P022,Văn phòng khoa
+Q022-01,I022,hoc_bong,noi,ten,muốn xin học bổng doanh nghiệp tài trợ thì thực hiện ở đâu,P022,Văn phòng khoa
+Q022-10,I022,hoc_bong,han,ten,hạn chót để xin học bổng doanh nghiệp tài trợ là khi nào,P022,trước ngày 30 tháng 10 hằng năm
+Q022-20,I022,hoc_bong,phi,ten,m xin học bổng doanh nghiệp tài trợ thì phải đóng bn,P022,miễn phí
+Q022-23,I022,hoc_bong,phi,alias,bạn ơi muốn nhận học bổng của công ty thì hết bn v,P022,miễn phí
+Q030-07,I030,hoc_bong,noi,alias,bạn ơi hoàn cảnh khó mà vẫn học tốt nên muốn xin thì phải đến đâu để làm thủ tục,P030,Phòng Công tác sinh viên
+Q030-04,I030,hoc_bong,noi,ten,m cần xét học bổng vượt khó phải liên hệ phòng ban nào v,P030,Phòng Công tác sinh viên
+Q030-12,I030,hoc_bong,han,ten,có deadline cho việc xét học bổng vượt khó ko là bao giờ,P030,3 tuần đầu học kỳ
+Q030-22,I030,hoc_bong,phi,alias,m hoàn cảnh khó mà vẫn học tốt nên muốn xin thì có phải đóng phí ko,P030,miễn phí
+Q030-18,I030,hoc_bong,phi,ten,xét học bổng vượt khó có mất phí ko,P030,miễn phí
+Q030-19,I030,hoc_bong,phi,ten,chi phí để xét học bổng vượt khó là bn tiền,P030,miễn phí
+Q032-08,I032,thi_diem,noi,alias,cho hỏi bị ốm ko đi thi đc thì đơn vị nào giải quyết,P032,Văn phòng khoa
+Q032-19,I032,thi_diem,phi,ten,chi phí để hoãn thi là bn tiền,P032,miễn phí
+Q032-17,I032,thi_diem,phi,ten,lệ phí hoãn thi là bn,P032,miễn phí
+Q032-10,I032,thi_diem,han,ten,hạn chót để hoãn thi là khi nào,P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-23,I032,thi_diem,phi,alias,bạn ơi bị ốm ko đi thi đc thì hết bn v,P032,miễn phí
+Q032-22,I032,thi_diem,phi,alias,m bị ốm ko đi thi đc thì có phải đóng phí ko,P032,miễn phí
+Q033-18,I033,thi_diem,phi,ten,đăng ký thi lại có mất phí ko,P033,100.000 đồng mỗi môn
+Q033-03,I033,thi_diem,noi,ten,nơi tiếp nhận hồ sơ đăng ký thi lại là đâu ạ,P033,Phòng Khảo thí
+Q033-01,I033,thi_diem,noi,ten,muốn đăng ký thi lại thì thực hiện ở đâu,P033,Phòng Khảo thí
+Q033-12,I033,thi_diem,han,ten,có deadline cho việc đăng ký thi lại ko là bao giờ,P033,7 ngày sau khi có điểm
+Q033-07,I033,thi_diem,noi,alias,bạn ơi thi rớt môn muốn thi lần nữa thì phải đến đâu để làm thủ tục,P033,Phòng Khảo thí
+Q033-05,I033,thi_diem,noi,alias,em thi rớt môn muốn thi lần nữa thì làm ở đâu ạ,P033,Phòng Khảo thí
+Q037-01,I037,thi_diem,noi,ten,muốn đăng ký thi chuẩn đầu ra ngoại ngữ thì thực hiện ở đâu,P037,Trung tâm Ngoại ngữ
+Q037-15,I037,thi_diem,han,alias,bạn ơi muốn thi chứng chỉ tiếng anh để đủ điều kiện ra trường thì có hạn chót ko,P037,3 tuần trước ngày thi
+Q037-19,I037,thi_diem,phi,ten,chi phí để đăng ký thi chuẩn đầu ra ngoại ngữ là bn tiền,P037,400.000 đồng mỗi lần thi
+Q037-23,I037,thi_diem,phi,alias,bạn ơi muốn thi chứng chỉ tiếng anh để đủ điều kiện ra trường thì hết bn v,P037,400.000 đồng mỗi lần thi
+Q037-18,I037,thi_diem,phi,ten,đăng ký thi chuẩn đầu ra ngoại ngữ có mất phí ko,P037,400.000 đồng mỗi lần thi
+Q037-02,I037,thi_diem,noi,ten,thủ tục đăng ký thi chuẩn đầu ra ngoại ngữ làm tại đơn vị nào,P037,Trung tâm Ngoại ngữ
+Q043-11,I043,tot_nghiep,han,ten,m phải cấp bản sao bằng tốt nghiệp trước thời điểm nào,P043,7 ngày làm việc
+Q043-23,I043,tot_nghiep,phi,alias,bạn ơi làm mất bằng gốc cần bản sao thì hết bn v,P043,30.000 đồng mỗi bản
+Q043-18,I043,tot_nghiep,phi,ten,cấp bản sao bằng tốt nghiệp có mất phí ko,P043,30.000 đồng mỗi bản
+Q043-06,I043,tot_nghiep,noi,alias,m làm mất bằng gốc cần bản sao thì liên hệ phòng nào,P043,Phòng Đào tạo
+Q043-12,I043,tot_nghiep,han,ten,có deadline cho việc cấp bản sao bằng tốt nghiệp ko là bao giờ,P043,7 ngày làm việc
+Q043-20,I043,tot_nghiep,phi,ten,m cấp bản sao bằng tốt nghiệp thì phải đóng bn,P043,30.000 đồng mỗi bản
+Q047-19,I047,tot_nghiep,phi,ten,chi phí để nộp khóa luận tốt nghiệp là bn tiền,P047,miễn phí
+Q047-21,I047,tot_nghiep,phi,alias,em nộp quyển khóa luận cuối cùng v tốn bn tiền,P047,miễn phí
+Q047-18,I047,tot_nghiep,phi,ten,nộp khóa luận tốt nghiệp có mất phí ko,P047,miễn phí
+Q047-23,I047,tot_nghiep,phi,alias,bạn ơi nộp quyển khóa luận cuối cùng thì hết bn v,P047,miễn phí
+Q047-13,I047,tot_nghiep,han,alias,em nộp quyển khóa luận cuối cùng v hạn xử lý là bao lâu,P047,trước ngày bảo vệ 7 ngày
+Q047-17,I047,tot_nghiep,phi,ten,lệ phí nộp khóa luận tốt nghiệp là bn,P047,miễn phí
+Q049-18,I049,tot_nghiep,phi,ten,điều chỉnh tt trên văn bằng có mất phí ko,P049,150.000 đồng
+Q049-16,I049,tot_nghiep,han,alias,cho hỏi họ tên ghi sai trên bằng muốn sửa lại thì thời gian nộp hồ sơ ra sao,P049,15 ngày làm việc
+Q049-11,I049,tot_nghiep,han,ten,m phải điều chỉnh tt trên văn bằng trước thời điểm nào,P049,15 ngày làm việc
+Q049-05,I049,tot_nghiep,noi,alias,em họ tên ghi sai trên bằng muốn sửa lại thì làm ở đâu ạ,P049,Phòng Đào tạo
+Q049-20,I049,tot_nghiep,phi,ten,m điều chỉnh tt trên văn bằng thì phải đóng bn,P049,150.000 đồng
+Q049-19,I049,tot_nghiep,phi,ten,chi phí để điều chỉnh tt trên văn bằng là bn tiền,P049,150.000 đồng
+Q053-09,I053,ky_tuc_xa,han,ten,thời hạn chuyển phòng ktx ntn,P053,bất kỳ lúc nào trừ tuần thi
+Q053-17,I053,ky_tuc_xa,phi,ten,lệ phí chuyển phòng ktx là bn,P053,30.000 đồng
+Q053-07,I053,ky_tuc_xa,noi,alias,bạn ơi muốn đổi sang phòng khác thì phải đến đâu để làm thủ tục,P053,Ban quản lý ký túc xá
+Q053-20,I053,ky_tuc_xa,phi,ten,m chuyển phòng ktx thì phải đóng bn,P053,30.000 đồng
+Q053-21,I053,ky_tuc_xa,phi,alias,em muốn đổi sang phòng khác v tốn bn tiền,P053,30.000 đồng
+Q053-18,I053,ky_tuc_xa,phi,ten,chuyển phòng ktx có mất phí ko,P053,30.000 đồng
+Q054-07,I054,ky_tuc_xa,noi,alias,bạn ơi muốn dọn ra ở ngoài giữa kỳ thì phải đến đâu để làm thủ tục,P054,Ban quản lý ký túc xá
+Q054-16,I054,ky_tuc_xa,han,alias,cho hỏi muốn dọn ra ở ngoài giữa kỳ thì thời gian nộp hồ sơ ra sao,P054,báo trước 7 ngày
+Q054-23,I054,ky_tuc_xa,phi,alias,bạn ơi muốn dọn ra ở ngoài giữa kỳ thì hết bn v,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-03,I054,ky_tuc_xa,noi,ten,nơi tiếp nhận hồ sơ trả phòng ktx là đâu ạ,P054,Ban quản lý ký túc xá
+Q054-15,I054,ky_tuc_xa,han,alias,bạn ơi muốn dọn ra ở ngoài giữa kỳ thì có hạn chót ko,P054,báo trước 7 ngày
+Q054-09,I054,ky_tuc_xa,han,ten,thời hạn trả phòng ktx ntn,P054,báo trước 7 ngày
+Q057-04,I057,ky_tuc_xa,noi,ten,m cần báo hỏng thiết bị trong phòng phải liên hệ phòng ban nào v,P057,Ban quản lý ký túc xá
+Q057-07,I057,ky_tuc_xa,noi,alias,bạn ơi điều hòa trong phòng bị hư thì phải đến đâu để làm thủ tục,P057,Ban quản lý ký túc xá
+Q057-05,I057,ky_tuc_xa,noi,alias,em điều hòa trong phòng bị hư thì làm ở đâu ạ,P057,Ban quản lý ký túc xá
+Q057-13,I057,ky_tuc_xa,han,alias,em điều hòa trong phòng bị hư v hạn xử lý là bao lâu,P057,báo ngay trong ngày phát hiện
+Q057-10,I057,ky_tuc_xa,han,ten,hạn chót để báo hỏng thiết bị trong phòng là khi nào,P057,báo ngay trong ngày phát hiện
+Q057-06,I057,ky_tuc_xa,noi,alias,m điều hòa trong phòng bị hư thì liên hệ phòng nào,P057,Ban quản lý ký túc xá
+Q063-24,I063,thu_vien_cntt,phi,alias,cho hỏi chưa đọc xong sách muốn mượn thêm thì chi phí ntn,P063,miễn phí
+Q063-13,I063,thu_vien_cntt,han,alias,em chưa đọc xong sách muốn mượn thêm v hạn xử lý là bao lâu,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-07,I063,thu_vien_cntt,noi,alias,bạn ơi chưa đọc xong sách muốn mượn thêm thì phải đến đâu để làm thủ tục,P063,Thư viện trung tâm
+Q063-02,I063,thu_vien_cntt,noi,ten,thủ tục gia hạn sách đã mượn làm tại đơn vị nào,P063,Thư viện trung tâm
+Q063-11,I063,thu_vien_cntt,han,ten,m phải gia hạn sách đã mượn trước thời điểm nào,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-16,I063,thu_vien_cntt,han,alias,cho hỏi chưa đọc xong sách muốn mượn thêm thì thời gian nộp hồ sơ ra sao,P063,gia hạn trước ngày hết hạn 1 ngày
+Q066-16,I066,thu_vien_cntt,han,alias,cho hỏi quên mật khẩu ko đăng nhập đc thì thời gian nộp hồ sơ ra sao,P066,xử lý trong 1 ngày làm việc
+Q066-21,I066,thu_vien_cntt,phi,alias,em quên mật khẩu ko đăng nhập đc v tốn bn tiền,P066,miễn phí
+Q066-01,I066,thu_vien_cntt,noi,ten,muốn cấp lại mật khẩu cổng tt thì thực hiện ở đâu,P066,Trung tâm Công nghệ thông tin
+Q066-24,I066,thu_vien_cntt,phi,alias,cho hỏi quên mật khẩu ko đăng nhập đc thì chi phí ntn,P066,miễn phí
+Q066-20,I066,thu_vien_cntt,phi,ten,m cấp lại mật khẩu cổng tt thì phải đóng bn,P066,miễn phí
+Q066-04,I066,thu_vien_cntt,noi,ten,m cần cấp lại mật khẩu cổng tt phải liên hệ phòng ban nào v,P066,Trung tâm Công nghệ thông tin
+Q070-02,I070,thu_vien_cntt,noi,ten,thủ tục truy cập cơ sở dữ liệu học thuật từ ngoài trường làm tại đơn vị nào,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-01,I070,thu_vien_cntt,noi,ten,muốn truy cập cơ sở dữ liệu học thuật từ ngoài trường thì thực hiện ở đâu,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-03,I070,thu_vien_cntt,noi,ten,nơi tiếp nhận hồ sơ truy cập cơ sở dữ liệu học thuật từ ngoài trường là đâu ạ,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-10,I070,thu_vien_cntt,han,ten,hạn chót để truy cập cơ sở dữ liệu học thuật từ ngoài trường là khi nào,P070,bất kỳ lúc nào
+Q070-24,I070,thu_vien_cntt,phi,alias,cho hỏi ở nhà muốn đọc bài báo khoa học của thư viện thì chi phí ntn,P070,miễn phí
+Q070-06,I070,thu_vien_cntt,noi,alias,m ở nhà muốn đọc bài báo khoa học của thư viện thì liên hệ phòng nào,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q076-16,I076,ctsv,han,alias,cho hỏi cuối kỳ phải tự chấm điểm rèn luyện thì thời gian nộp hồ sơ ra sao,P076,2 tuần cuối học kỳ
+Q076-05,I076,ctsv,noi,alias,em cuối kỳ phải tự chấm điểm rèn luyện thì làm ở đâu ạ,P076,cổng thông tin sinh viên
+Q076-15,I076,ctsv,han,alias,bạn ơi cuối kỳ phải tự chấm điểm rèn luyện thì có hạn chót ko,P076,2 tuần cuối học kỳ
+Q076-14,I076,ctsv,han,alias,m cuối kỳ phải tự chấm điểm rèn luyện thì phải làm trước khi nào,P076,2 tuần cuối học kỳ
+Q076-24,I076,ctsv,phi,alias,cho hỏi cuối kỳ phải tự chấm điểm rèn luyện thì chi phí ntn,P076,miễn phí
+Q076-19,I076,ctsv,phi,ten,chi phí để đánh giá điểm rèn luyện là bn tiền,P076,miễn phí
+Q077-02,I077,ctsv,noi,ten,thủ tục khiếu nại điểm rèn luyện làm tại đơn vị nào,P077,Phòng Công tác sinh viên
+Q077-12,I077,ctsv,han,ten,có deadline cho việc khiếu nại điểm rèn luyện ko là bao giờ,P077,5 ngày kể từ khi công bố kết quả
+Q077-06,I077,ctsv,noi,alias,m điểm rèn luyện bị chấm thấp hơn thực tế thì liên hệ phòng nào,P077,Phòng Công tác sinh viên
+Q077-03,I077,ctsv,noi,ten,nơi tiếp nhận hồ sơ khiếu nại điểm rèn luyện là đâu ạ,P077,Phòng Công tác sinh viên
+Q077-11,I077,ctsv,han,ten,m phải khiếu nại điểm rèn luyện trước thời điểm nào,P077,5 ngày kể từ khi công bố kết quả
+Q077-21,I077,ctsv,phi,alias,em điểm rèn luyện bị chấm thấp hơn thực tế v tốn bn tiền,P077,miễn phí

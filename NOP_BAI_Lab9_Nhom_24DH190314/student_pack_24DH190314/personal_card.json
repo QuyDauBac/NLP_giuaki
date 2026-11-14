@@ -1,0 +1,48 @@
+{
+  "mssv": "24DH190314",
+  "seed": 58202,
+  "noise": "code_mix",
+  "topic_pair": [
+    "thi_diem",
+    "thu_vien_cntt"
+  ],
+  "embed_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "clf_backbone": "xlm-roberta-base",
+  "lora": {
+    "r": 8,
+    "alpha": 16,
+    "dropout": 0.1,
+    "target_modules": [
+      "query",
+      "value"
+    ]
+  },
+  "fewshot_k": 6,
+  "rag_top_k": 2,
+  "ablation": "A4",
+  "dpo": {
+    "beta": 0.5,
+    "logp_pi_chosen": -18.5,
+    "logp_pi_rejected": -42.8,
+    "logp_ref_chosen": -24.8,
+    "logp_ref_rejected": -32.3
+  },
+  "toy_ranking": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "ablation_desc": "Quét trọng số hybrid alpha = 0.0, 0.1, ..., 1.0 trên tập dev",
+  "check_code": "927D30B4",
+  "split_info": {
+    "train_items": 58,
+    "test_items": 22,
+    "n_train": 1392,
+    "n_test": 528
+  }
+}

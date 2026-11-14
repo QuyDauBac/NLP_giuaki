@@ -1,0 +1,31 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q043-15,I043,tot_nghiep,han,alias,"Bạn ơi, làm mất bằng gốc cần bản sao thì có hạn chót không?",P043,7 ngày làm việc
+Q033-14,I033,thi_diem,han,alias,Mình thi rớt môn muốn thi lần nữa thì phải làm trước khi nào?,P033,7 ngày sau khi có điểm
+Q002-04,I002,dang_ky_hoc_phan,noi,ten,"Mình cần hủy học phần đã đăng ký, phải liên hệ phòng ban nào vậy?",P002,Phòng Đào tạo
+Q018-05,I018,hoc_phi,noi,alias,"Em muốn biết mình còn thiếu bao nhiêu tiền, thì làm ở đâu ạ?",P018,cổng thông tin sinh viên
+Q066-07,I066,thu_vien_cntt,noi,alias,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",P066,Trung tâm Công nghệ thông tin
+Q019-13,I019,hoc_phi,han,alias,"Em bạn người nước ngoài chuyển khoản từ nước ngoài, vậy hạn xử lý là bao lâu?",P019,20 ngày trước khi học kỳ bắt đầu
+Q047-03,I047,tot_nghiep,noi,ten,Nơi tiếp nhận hồ sơ nộp khóa luận tốt nghiệp là đâu ạ?,P047,Văn phòng khoa
+Q049-01,I049,tot_nghiep,noi,ten,Muốn điều chỉnh thông tin trên văn bằng thì thực hiện ở đâu?,P049,Phòng Đào tạo
+Q077-13,I077,ctsv,han,alias,"Em điểm rèn luyện bị chấm thấp hơn thực tế, vậy hạn xử lý là bao lâu?",P077,5 ngày kể từ khi công bố kết quả
+Q010-12,I010,dang_ky_hoc_phan,han,ten,"Có deadline cho việc đăng ký thực tập doanh nghiệp không, là bao giờ?",P010,4 tuần trước ngày bắt đầu thực tập
+Q049-17,I049,tot_nghiep,phi,ten,Lệ phí điều chỉnh thông tin trên văn bằng là bao nhiêu?,P049,150.000 đồng
+Q032-22,I032,thi_diem,phi,alias,Mình bị ốm không đi thi được thì có phải đóng phí không?,P032,miễn phí
+Q030-19,I030,hoc_bong,phi,ten,Chi phí để xét học bổng vượt khó là bao nhiêu tiền?,P030,miễn phí
+Q047-19,I047,tot_nghiep,phi,ten,Chi phí để nộp khóa luận tốt nghiệp là bao nhiêu tiền?,P047,miễn phí
+Q030-04,I030,hoc_bong,noi,ten,"Mình cần xét học bổng vượt khó, phải liên hệ phòng ban nào vậy?",P030,Phòng Công tác sinh viên
+Q053-07,I053,ky_tuc_xa,noi,alias,"Bạn ơi, muốn đổi sang phòng khác thì phải đến đâu để làm thủ tục?",P053,Ban quản lý ký túc xá
+Q022-21,I022,hoc_bong,phi,alias,"Em muốn nhận học bổng của công ty, vậy tốn bao nhiêu tiền?",P022,miễn phí
+Q053-21,I053,ky_tuc_xa,phi,alias,"Em muốn đổi sang phòng khác, vậy tốn bao nhiêu tiền?",P053,30.000 đồng
+Q030-01,I030,hoc_bong,noi,ten,Muốn xét học bổng vượt khó thì thực hiện ở đâu?,P030,Phòng Công tác sinh viên
+Q002-21,I002,dang_ky_hoc_phan,phi,alias,"Em lỡ đăng ký nhầm môn nên muốn bỏ, vậy tốn bao nhiêu tiền?",P002,miễn phí
+Q076-09,I076,ctsv,han,ten,Thời hạn đánh giá điểm rèn luyện như thế nào?,P076,2 tuần cuối học kỳ
+Q047-12,I047,tot_nghiep,han,ten,"Có deadline cho việc nộp khóa luận tốt nghiệp không, là bao giờ?",P047,trước ngày bảo vệ 7 ngày
+Q010-24,I010,dang_ky_hoc_phan,phi,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì chi phí thế nào?",P010,miễn phí
+Q076-20,I076,ctsv,phi,ten,Mình đánh giá điểm rèn luyện thì phải đóng bao nhiêu?,P076,miễn phí
+Q076-04,I076,ctsv,noi,ten,"Mình cần đánh giá điểm rèn luyện, phải liên hệ phòng ban nào vậy?",P076,cổng thông tin sinh viên
+Q043-05,I043,tot_nghiep,noi,alias,"Em làm mất bằng gốc cần bản sao, thì làm ở đâu ạ?",P043,Phòng Đào tạo
+Q070-19,I070,thu_vien_cntt,phi,ten,Chi phí để truy cập cơ sở dữ liệu học thuật từ ngoài trường là bao nhiêu tiền?,P070,miễn phí
+Q053-03,I053,ky_tuc_xa,noi,ten,Nơi tiếp nhận hồ sơ chuyển phòng ký túc xá là đâu ạ?,P053,Ban quản lý ký túc xá
+Q032-17,I032,thi_diem,phi,ten,Lệ phí hoãn thi là bao nhiêu?,P032,miễn phí
+Q054-19,I054,ky_tuc_xa,phi,ten,Chi phí để trả phòng ký túc xá là bao nhiêu tiền?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng

@@ -1,0 +1,529 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q002-01,I002,dang_ky_hoc_phan,noi,ten,Muốn hủy học phần đã đăng ký thì thực hiện ở đâu?,P002,Phòng Đào tạo
+Q002-02,I002,dang_ky_hoc_phan,noi,ten,Thủ tục hủy học phần đã đăng ký làm tại đơn vị nào?,P002,Phòng Đào tạo
+Q002-03,I002,dang_ky_hoc_phan,noi,ten,Nơi tiếp nhận hồ sơ hủy học phần đã đăng ký là đâu ạ?,P002,Phòng Đào tạo
+Q002-04,I002,dang_ky_hoc_phan,noi,ten,"Mình cần hủy học phần đã đăng ký, phải liên hệ phòng ban nào vậy?",P002,Phòng Đào tạo
+Q002-05,I002,dang_ky_hoc_phan,noi,alias,"Em lỡ đăng ký nhầm môn nên muốn bỏ, thì làm ở đâu ạ?",P002,Phòng Đào tạo
+Q002-06,I002,dang_ky_hoc_phan,noi,alias,Mình lỡ đăng ký nhầm môn nên muốn bỏ thì liên hệ phòng nào?,P002,Phòng Đào tạo
+Q002-07,I002,dang_ky_hoc_phan,noi,alias,"Bạn ơi, lỡ đăng ký nhầm môn nên muốn bỏ thì phải đến đâu để làm thủ tục?",P002,Phòng Đào tạo
+Q002-08,I002,dang_ky_hoc_phan,noi,alias,"Cho hỏi, lỡ đăng ký nhầm môn nên muốn bỏ thì đơn vị nào giải quyết?",P002,Phòng Đào tạo
+Q002-09,I002,dang_ky_hoc_phan,han,ten,Thời hạn hủy học phần đã đăng ký như thế nào?,P002,trong 10 ngày đầu học kỳ
+Q002-10,I002,dang_ky_hoc_phan,han,ten,Hạn chót để hủy học phần đã đăng ký là khi nào?,P002,trong 10 ngày đầu học kỳ
+Q002-11,I002,dang_ky_hoc_phan,han,ten,Mình phải hủy học phần đã đăng ký trước thời điểm nào?,P002,trong 10 ngày đầu học kỳ
+Q002-12,I002,dang_ky_hoc_phan,han,ten,"Có deadline cho việc hủy học phần đã đăng ký không, là bao giờ?",P002,trong 10 ngày đầu học kỳ
+Q002-13,I002,dang_ky_hoc_phan,han,alias,"Em lỡ đăng ký nhầm môn nên muốn bỏ, vậy hạn xử lý là bao lâu?",P002,trong 10 ngày đầu học kỳ
+Q002-14,I002,dang_ky_hoc_phan,han,alias,Mình lỡ đăng ký nhầm môn nên muốn bỏ thì phải làm trước khi nào?,P002,trong 10 ngày đầu học kỳ
+Q002-15,I002,dang_ky_hoc_phan,han,alias,"Bạn ơi, lỡ đăng ký nhầm môn nên muốn bỏ thì có hạn chót không?",P002,trong 10 ngày đầu học kỳ
+Q002-16,I002,dang_ky_hoc_phan,han,alias,"Cho hỏi, lỡ đăng ký nhầm môn nên muốn bỏ thì thời gian nộp hồ sơ ra sao?",P002,trong 10 ngày đầu học kỳ
+Q002-17,I002,dang_ky_hoc_phan,phi,ten,Lệ phí hủy học phần đã đăng ký là bao nhiêu?,P002,miễn phí
+Q002-18,I002,dang_ky_hoc_phan,phi,ten,Hủy học phần đã đăng ký có mất phí không?,P002,miễn phí
+Q002-19,I002,dang_ky_hoc_phan,phi,ten,Chi phí để hủy học phần đã đăng ký là bao nhiêu tiền?,P002,miễn phí
+Q002-20,I002,dang_ky_hoc_phan,phi,ten,Mình hủy học phần đã đăng ký thì phải đóng bao nhiêu?,P002,miễn phí
+Q002-21,I002,dang_ky_hoc_phan,phi,alias,"Em lỡ đăng ký nhầm môn nên muốn bỏ, vậy tốn bao nhiêu tiền?",P002,miễn phí
+Q002-22,I002,dang_ky_hoc_phan,phi,alias,Mình lỡ đăng ký nhầm môn nên muốn bỏ thì có phải đóng phí không?,P002,miễn phí
+Q002-23,I002,dang_ky_hoc_phan,phi,alias,"Bạn ơi, lỡ đăng ký nhầm môn nên muốn bỏ thì hết bao nhiêu vậy?",P002,miễn phí
+Q002-24,I002,dang_ky_hoc_phan,phi,alias,"Cho hỏi, lỡ đăng ký nhầm môn nên muốn bỏ thì chi phí thế nào?",P002,miễn phí
+Q004-01,I004,dang_ky_hoc_phan,noi,ten,Muốn đăng ký học cải thiện điểm thì thực hiện ở đâu?,P004,Phòng Đào tạo
+Q004-02,I004,dang_ky_hoc_phan,noi,ten,Thủ tục đăng ký học cải thiện điểm làm tại đơn vị nào?,P004,Phòng Đào tạo
+Q004-03,I004,dang_ky_hoc_phan,noi,ten,Nơi tiếp nhận hồ sơ đăng ký học cải thiện điểm là đâu ạ?,P004,Phòng Đào tạo
+Q004-04,I004,dang_ky_hoc_phan,noi,ten,"Mình cần đăng ký học cải thiện điểm, phải liên hệ phòng ban nào vậy?",P004,Phòng Đào tạo
+Q004-05,I004,dang_ky_hoc_phan,noi,alias,"Em điểm môn này thấp muốn học lại cho cao hơn, thì làm ở đâu ạ?",P004,Phòng Đào tạo
+Q004-06,I004,dang_ky_hoc_phan,noi,alias,Mình điểm môn này thấp muốn học lại cho cao hơn thì liên hệ phòng nào?,P004,Phòng Đào tạo
+Q004-07,I004,dang_ky_hoc_phan,noi,alias,"Bạn ơi, điểm môn này thấp muốn học lại cho cao hơn thì phải đến đâu để làm thủ tục?",P004,Phòng Đào tạo
+Q004-08,I004,dang_ky_hoc_phan,noi,alias,"Cho hỏi, điểm môn này thấp muốn học lại cho cao hơn thì đơn vị nào giải quyết?",P004,Phòng Đào tạo
+Q004-09,I004,dang_ky_hoc_phan,han,ten,Thời hạn đăng ký học cải thiện điểm như thế nào?,P004,trong tuần đầu của học kỳ
+Q004-10,I004,dang_ky_hoc_phan,han,ten,Hạn chót để đăng ký học cải thiện điểm là khi nào?,P004,trong tuần đầu của học kỳ
+Q004-11,I004,dang_ky_hoc_phan,han,ten,Mình phải đăng ký học cải thiện điểm trước thời điểm nào?,P004,trong tuần đầu của học kỳ
+Q004-12,I004,dang_ky_hoc_phan,han,ten,"Có deadline cho việc đăng ký học cải thiện điểm không, là bao giờ?",P004,trong tuần đầu của học kỳ
+Q004-13,I004,dang_ky_hoc_phan,han,alias,"Em điểm môn này thấp muốn học lại cho cao hơn, vậy hạn xử lý là bao lâu?",P004,trong tuần đầu của học kỳ
+Q004-14,I004,dang_ky_hoc_phan,han,alias,Mình điểm môn này thấp muốn học lại cho cao hơn thì phải làm trước khi nào?,P004,trong tuần đầu của học kỳ
+Q004-15,I004,dang_ky_hoc_phan,han,alias,"Bạn ơi, điểm môn này thấp muốn học lại cho cao hơn thì có hạn chót không?",P004,trong tuần đầu của học kỳ
+Q004-16,I004,dang_ky_hoc_phan,han,alias,"Cho hỏi, điểm môn này thấp muốn học lại cho cao hơn thì thời gian nộp hồ sơ ra sao?",P004,trong tuần đầu của học kỳ
+Q004-17,I004,dang_ky_hoc_phan,phi,ten,Lệ phí đăng ký học cải thiện điểm là bao nhiêu?,P004,bằng học phí theo số tín chỉ
+Q004-18,I004,dang_ky_hoc_phan,phi,ten,Đăng ký học cải thiện điểm có mất phí không?,P004,bằng học phí theo số tín chỉ
+Q004-19,I004,dang_ky_hoc_phan,phi,ten,Chi phí để đăng ký học cải thiện điểm là bao nhiêu tiền?,P004,bằng học phí theo số tín chỉ
+Q004-20,I004,dang_ky_hoc_phan,phi,ten,Mình đăng ký học cải thiện điểm thì phải đóng bao nhiêu?,P004,bằng học phí theo số tín chỉ
+Q004-21,I004,dang_ky_hoc_phan,phi,alias,"Em điểm môn này thấp muốn học lại cho cao hơn, vậy tốn bao nhiêu tiền?",P004,bằng học phí theo số tín chỉ
+Q004-22,I004,dang_ky_hoc_phan,phi,alias,Mình điểm môn này thấp muốn học lại cho cao hơn thì có phải đóng phí không?,P004,bằng học phí theo số tín chỉ
+Q004-23,I004,dang_ky_hoc_phan,phi,alias,"Bạn ơi, điểm môn này thấp muốn học lại cho cao hơn thì hết bao nhiêu vậy?",P004,bằng học phí theo số tín chỉ
+Q004-24,I004,dang_ky_hoc_phan,phi,alias,"Cho hỏi, điểm môn này thấp muốn học lại cho cao hơn thì chi phí thế nào?",P004,bằng học phí theo số tín chỉ
+Q010-01,I010,dang_ky_hoc_phan,noi,ten,Muốn đăng ký thực tập doanh nghiệp thì thực hiện ở đâu?,P010,Văn phòng khoa
+Q010-02,I010,dang_ky_hoc_phan,noi,ten,Thủ tục đăng ký thực tập doanh nghiệp làm tại đơn vị nào?,P010,Văn phòng khoa
+Q010-03,I010,dang_ky_hoc_phan,noi,ten,Nơi tiếp nhận hồ sơ đăng ký thực tập doanh nghiệp là đâu ạ?,P010,Văn phòng khoa
+Q010-04,I010,dang_ky_hoc_phan,noi,ten,"Mình cần đăng ký thực tập doanh nghiệp, phải liên hệ phòng ban nào vậy?",P010,Văn phòng khoa
+Q010-05,I010,dang_ky_hoc_phan,noi,alias,"Em cần đi thực tập ở công ty bên ngoài, thì làm ở đâu ạ?",P010,Văn phòng khoa
+Q010-06,I010,dang_ky_hoc_phan,noi,alias,Mình cần đi thực tập ở công ty bên ngoài thì liên hệ phòng nào?,P010,Văn phòng khoa
+Q010-07,I010,dang_ky_hoc_phan,noi,alias,"Bạn ơi, cần đi thực tập ở công ty bên ngoài thì phải đến đâu để làm thủ tục?",P010,Văn phòng khoa
+Q010-08,I010,dang_ky_hoc_phan,noi,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì đơn vị nào giải quyết?",P010,Văn phòng khoa
+Q010-09,I010,dang_ky_hoc_phan,han,ten,Thời hạn đăng ký thực tập doanh nghiệp như thế nào?,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-10,I010,dang_ky_hoc_phan,han,ten,Hạn chót để đăng ký thực tập doanh nghiệp là khi nào?,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-11,I010,dang_ky_hoc_phan,han,ten,Mình phải đăng ký thực tập doanh nghiệp trước thời điểm nào?,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-12,I010,dang_ky_hoc_phan,han,ten,"Có deadline cho việc đăng ký thực tập doanh nghiệp không, là bao giờ?",P010,4 tuần trước ngày bắt đầu thực tập
+Q010-13,I010,dang_ky_hoc_phan,han,alias,"Em cần đi thực tập ở công ty bên ngoài, vậy hạn xử lý là bao lâu?",P010,4 tuần trước ngày bắt đầu thực tập
+Q010-14,I010,dang_ky_hoc_phan,han,alias,Mình cần đi thực tập ở công ty bên ngoài thì phải làm trước khi nào?,P010,4 tuần trước ngày bắt đầu thực tập
+Q010-15,I010,dang_ky_hoc_phan,han,alias,"Bạn ơi, cần đi thực tập ở công ty bên ngoài thì có hạn chót không?",P010,4 tuần trước ngày bắt đầu thực tập
+Q010-16,I010,dang_ky_hoc_phan,han,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì thời gian nộp hồ sơ ra sao?",P010,4 tuần trước ngày bắt đầu thực tập
+Q010-17,I010,dang_ky_hoc_phan,phi,ten,Lệ phí đăng ký thực tập doanh nghiệp là bao nhiêu?,P010,miễn phí
+Q010-18,I010,dang_ky_hoc_phan,phi,ten,Đăng ký thực tập doanh nghiệp có mất phí không?,P010,miễn phí
+Q010-19,I010,dang_ky_hoc_phan,phi,ten,Chi phí để đăng ký thực tập doanh nghiệp là bao nhiêu tiền?,P010,miễn phí
+Q010-20,I010,dang_ky_hoc_phan,phi,ten,Mình đăng ký thực tập doanh nghiệp thì phải đóng bao nhiêu?,P010,miễn phí
+Q010-21,I010,dang_ky_hoc_phan,phi,alias,"Em cần đi thực tập ở công ty bên ngoài, vậy tốn bao nhiêu tiền?",P010,miễn phí
+Q010-22,I010,dang_ky_hoc_phan,phi,alias,Mình cần đi thực tập ở công ty bên ngoài thì có phải đóng phí không?,P010,miễn phí
+Q010-23,I010,dang_ky_hoc_phan,phi,alias,"Bạn ơi, cần đi thực tập ở công ty bên ngoài thì hết bao nhiêu vậy?",P010,miễn phí
+Q010-24,I010,dang_ky_hoc_phan,phi,alias,"Cho hỏi, cần đi thực tập ở công ty bên ngoài thì chi phí thế nào?",P010,miễn phí
+Q012-01,I012,hoc_phi,noi,ten,Muốn gia hạn đóng học phí thì thực hiện ở đâu?,P012,Phòng Kế hoạch - Tài chính
+Q012-02,I012,hoc_phi,noi,ten,Thủ tục gia hạn đóng học phí làm tại đơn vị nào?,P012,Phòng Kế hoạch - Tài chính
+Q012-03,I012,hoc_phi,noi,ten,Nơi tiếp nhận hồ sơ gia hạn đóng học phí là đâu ạ?,P012,Phòng Kế hoạch - Tài chính
+Q012-04,I012,hoc_phi,noi,ten,"Mình cần gia hạn đóng học phí, phải liên hệ phòng ban nào vậy?",P012,Phòng Kế hoạch - Tài chính
+Q012-05,I012,hoc_phi,noi,alias,"Em chưa có tiền đóng học phí nên xin nộp trễ, thì làm ở đâu ạ?",P012,Phòng Kế hoạch - Tài chính
+Q012-06,I012,hoc_phi,noi,alias,Mình chưa có tiền đóng học phí nên xin nộp trễ thì liên hệ phòng nào?,P012,Phòng Kế hoạch - Tài chính
+Q012-07,I012,hoc_phi,noi,alias,"Bạn ơi, chưa có tiền đóng học phí nên xin nộp trễ thì phải đến đâu để làm thủ tục?",P012,Phòng Kế hoạch - Tài chính
+Q012-08,I012,hoc_phi,noi,alias,"Cho hỏi, chưa có tiền đóng học phí nên xin nộp trễ thì đơn vị nào giải quyết?",P012,Phòng Kế hoạch - Tài chính
+Q012-09,I012,hoc_phi,han,ten,Thời hạn gia hạn đóng học phí như thế nào?,P012,trước hạn đóng học phí 3 ngày
+Q012-10,I012,hoc_phi,han,ten,Hạn chót để gia hạn đóng học phí là khi nào?,P012,trước hạn đóng học phí 3 ngày
+Q012-11,I012,hoc_phi,han,ten,Mình phải gia hạn đóng học phí trước thời điểm nào?,P012,trước hạn đóng học phí 3 ngày
+Q012-12,I012,hoc_phi,han,ten,"Có deadline cho việc gia hạn đóng học phí không, là bao giờ?",P012,trước hạn đóng học phí 3 ngày
+Q012-13,I012,hoc_phi,han,alias,"Em chưa có tiền đóng học phí nên xin nộp trễ, vậy hạn xử lý là bao lâu?",P012,trước hạn đóng học phí 3 ngày
+Q012-14,I012,hoc_phi,han,alias,Mình chưa có tiền đóng học phí nên xin nộp trễ thì phải làm trước khi nào?,P012,trước hạn đóng học phí 3 ngày
+Q012-15,I012,hoc_phi,han,alias,"Bạn ơi, chưa có tiền đóng học phí nên xin nộp trễ thì có hạn chót không?",P012,trước hạn đóng học phí 3 ngày
+Q012-16,I012,hoc_phi,han,alias,"Cho hỏi, chưa có tiền đóng học phí nên xin nộp trễ thì thời gian nộp hồ sơ ra sao?",P012,trước hạn đóng học phí 3 ngày
+Q012-17,I012,hoc_phi,phi,ten,Lệ phí gia hạn đóng học phí là bao nhiêu?,P012,miễn phí
+Q012-18,I012,hoc_phi,phi,ten,Gia hạn đóng học phí có mất phí không?,P012,miễn phí
+Q012-19,I012,hoc_phi,phi,ten,Chi phí để gia hạn đóng học phí là bao nhiêu tiền?,P012,miễn phí
+Q012-20,I012,hoc_phi,phi,ten,Mình gia hạn đóng học phí thì phải đóng bao nhiêu?,P012,miễn phí
+Q012-21,I012,hoc_phi,phi,alias,"Em chưa có tiền đóng học phí nên xin nộp trễ, vậy tốn bao nhiêu tiền?",P012,miễn phí
+Q012-22,I012,hoc_phi,phi,alias,Mình chưa có tiền đóng học phí nên xin nộp trễ thì có phải đóng phí không?,P012,miễn phí
+Q012-23,I012,hoc_phi,phi,alias,"Bạn ơi, chưa có tiền đóng học phí nên xin nộp trễ thì hết bao nhiêu vậy?",P012,miễn phí
+Q012-24,I012,hoc_phi,phi,alias,"Cho hỏi, chưa có tiền đóng học phí nên xin nộp trễ thì chi phí thế nào?",P012,miễn phí
+Q018-01,I018,hoc_phi,noi,ten,Muốn tra cứu công nợ học phí thì thực hiện ở đâu?,P018,cổng thông tin sinh viên
+Q018-02,I018,hoc_phi,noi,ten,Thủ tục tra cứu công nợ học phí làm tại đơn vị nào?,P018,cổng thông tin sinh viên
+Q018-03,I018,hoc_phi,noi,ten,Nơi tiếp nhận hồ sơ tra cứu công nợ học phí là đâu ạ?,P018,cổng thông tin sinh viên
+Q018-04,I018,hoc_phi,noi,ten,"Mình cần tra cứu công nợ học phí, phải liên hệ phòng ban nào vậy?",P018,cổng thông tin sinh viên
+Q018-05,I018,hoc_phi,noi,alias,"Em muốn biết mình còn thiếu bao nhiêu tiền, thì làm ở đâu ạ?",P018,cổng thông tin sinh viên
+Q018-06,I018,hoc_phi,noi,alias,Mình muốn biết mình còn thiếu bao nhiêu tiền thì liên hệ phòng nào?,P018,cổng thông tin sinh viên
+Q018-07,I018,hoc_phi,noi,alias,"Bạn ơi, muốn biết mình còn thiếu bao nhiêu tiền thì phải đến đâu để làm thủ tục?",P018,cổng thông tin sinh viên
+Q018-08,I018,hoc_phi,noi,alias,"Cho hỏi, muốn biết mình còn thiếu bao nhiêu tiền thì đơn vị nào giải quyết?",P018,cổng thông tin sinh viên
+Q018-09,I018,hoc_phi,han,ten,Thời hạn tra cứu công nợ học phí như thế nào?,P018,bất kỳ lúc nào
+Q018-10,I018,hoc_phi,han,ten,Hạn chót để tra cứu công nợ học phí là khi nào?,P018,bất kỳ lúc nào
+Q018-11,I018,hoc_phi,han,ten,Mình phải tra cứu công nợ học phí trước thời điểm nào?,P018,bất kỳ lúc nào
+Q018-12,I018,hoc_phi,han,ten,"Có deadline cho việc tra cứu công nợ học phí không, là bao giờ?",P018,bất kỳ lúc nào
+Q018-13,I018,hoc_phi,han,alias,"Em muốn biết mình còn thiếu bao nhiêu tiền, vậy hạn xử lý là bao lâu?",P018,bất kỳ lúc nào
+Q018-14,I018,hoc_phi,han,alias,Mình muốn biết mình còn thiếu bao nhiêu tiền thì phải làm trước khi nào?,P018,bất kỳ lúc nào
+Q018-15,I018,hoc_phi,han,alias,"Bạn ơi, muốn biết mình còn thiếu bao nhiêu tiền thì có hạn chót không?",P018,bất kỳ lúc nào
+Q018-16,I018,hoc_phi,han,alias,"Cho hỏi, muốn biết mình còn thiếu bao nhiêu tiền thì thời gian nộp hồ sơ ra sao?",P018,bất kỳ lúc nào
+Q018-17,I018,hoc_phi,phi,ten,Lệ phí tra cứu công nợ học phí là bao nhiêu?,P018,miễn phí
+Q018-18,I018,hoc_phi,phi,ten,Tra cứu công nợ học phí có mất phí không?,P018,miễn phí
+Q018-19,I018,hoc_phi,phi,ten,Chi phí để tra cứu công nợ học phí là bao nhiêu tiền?,P018,miễn phí
+Q018-20,I018,hoc_phi,phi,ten,Mình tra cứu công nợ học phí thì phải đóng bao nhiêu?,P018,miễn phí
+Q018-21,I018,hoc_phi,phi,alias,"Em muốn biết mình còn thiếu bao nhiêu tiền, vậy tốn bao nhiêu tiền?",P018,miễn phí
+Q018-22,I018,hoc_phi,phi,alias,Mình muốn biết mình còn thiếu bao nhiêu tiền thì có phải đóng phí không?,P018,miễn phí
+Q018-23,I018,hoc_phi,phi,alias,"Bạn ơi, muốn biết mình còn thiếu bao nhiêu tiền thì hết bao nhiêu vậy?",P018,miễn phí
+Q018-24,I018,hoc_phi,phi,alias,"Cho hỏi, muốn biết mình còn thiếu bao nhiêu tiền thì chi phí thế nào?",P018,miễn phí
+Q019-01,I019,hoc_phi,noi,ten,Muốn thanh toán học phí cho sinh viên quốc tế thì thực hiện ở đâu?,P019,Phòng Kế hoạch - Tài chính
+Q019-02,I019,hoc_phi,noi,ten,Thủ tục thanh toán học phí cho sinh viên quốc tế làm tại đơn vị nào?,P019,Phòng Kế hoạch - Tài chính
+Q019-03,I019,hoc_phi,noi,ten,Nơi tiếp nhận hồ sơ thanh toán học phí cho sinh viên quốc tế là đâu ạ?,P019,Phòng Kế hoạch - Tài chính
+Q019-04,I019,hoc_phi,noi,ten,"Mình cần thanh toán học phí cho sinh viên quốc tế, phải liên hệ phòng ban nào vậy?",P019,Phòng Kế hoạch - Tài chính
+Q019-05,I019,hoc_phi,noi,alias,"Em bạn người nước ngoài chuyển khoản từ nước ngoài, thì làm ở đâu ạ?",P019,Phòng Kế hoạch - Tài chính
+Q019-06,I019,hoc_phi,noi,alias,Mình bạn người nước ngoài chuyển khoản từ nước ngoài thì liên hệ phòng nào?,P019,Phòng Kế hoạch - Tài chính
+Q019-07,I019,hoc_phi,noi,alias,"Bạn ơi, bạn người nước ngoài chuyển khoản từ nước ngoài thì phải đến đâu để làm thủ tục?",P019,Phòng Kế hoạch - Tài chính
+Q019-08,I019,hoc_phi,noi,alias,"Cho hỏi, bạn người nước ngoài chuyển khoản từ nước ngoài thì đơn vị nào giải quyết?",P019,Phòng Kế hoạch - Tài chính
+Q019-09,I019,hoc_phi,han,ten,Thời hạn thanh toán học phí cho sinh viên quốc tế như thế nào?,P019,20 ngày trước khi học kỳ bắt đầu
+Q019-10,I019,hoc_phi,han,ten,Hạn chót để thanh toán học phí cho sinh viên quốc tế là khi nào?,P019,20 ngày trước khi học kỳ bắt đầu
+Q019-11,I019,hoc_phi,han,ten,Mình phải thanh toán học phí cho sinh viên quốc tế trước thời điểm nào?,P019,20 ngày trước khi học kỳ bắt đầu
+Q019-12,I019,hoc_phi,han,ten,"Có deadline cho việc thanh toán học phí cho sinh viên quốc tế không, là bao giờ?",P019,20 ngày trước khi học kỳ bắt đầu
+Q019-13,I019,hoc_phi,han,alias,"Em bạn người nước ngoài chuyển khoản từ nước ngoài, vậy hạn xử lý là bao lâu?",P019,20 ngày trước khi học kỳ bắt đầu
+Q019-14,I019,hoc_phi,han,alias,Mình bạn người nước ngoài chuyển khoản từ nước ngoài thì phải làm trước khi nào?,P019,20 ngày trước khi học kỳ bắt đầu
+Q019-15,I019,hoc_phi,han,alias,"Bạn ơi, bạn người nước ngoài chuyển khoản từ nước ngoài thì có hạn chót không?",P019,20 ngày trước khi học kỳ bắt đầu
+Q019-16,I019,hoc_phi,han,alias,"Cho hỏi, bạn người nước ngoài chuyển khoản từ nước ngoài thì thời gian nộp hồ sơ ra sao?",P019,20 ngày trước khi học kỳ bắt đầu
+Q019-17,I019,hoc_phi,phi,ten,Lệ phí thanh toán học phí cho sinh viên quốc tế là bao nhiêu?,P019,phí chuyển khoản do sinh viên chịu
+Q019-18,I019,hoc_phi,phi,ten,Thanh toán học phí cho sinh viên quốc tế có mất phí không?,P019,phí chuyển khoản do sinh viên chịu
+Q019-19,I019,hoc_phi,phi,ten,Chi phí để thanh toán học phí cho sinh viên quốc tế là bao nhiêu tiền?,P019,phí chuyển khoản do sinh viên chịu
+Q019-20,I019,hoc_phi,phi,ten,Mình thanh toán học phí cho sinh viên quốc tế thì phải đóng bao nhiêu?,P019,phí chuyển khoản do sinh viên chịu
+Q019-21,I019,hoc_phi,phi,alias,"Em bạn người nước ngoài chuyển khoản từ nước ngoài, vậy tốn bao nhiêu tiền?",P019,phí chuyển khoản do sinh viên chịu
+Q019-22,I019,hoc_phi,phi,alias,Mình bạn người nước ngoài chuyển khoản từ nước ngoài thì có phải đóng phí không?,P019,phí chuyển khoản do sinh viên chịu
+Q019-23,I019,hoc_phi,phi,alias,"Bạn ơi, bạn người nước ngoài chuyển khoản từ nước ngoài thì hết bao nhiêu vậy?",P019,phí chuyển khoản do sinh viên chịu
+Q019-24,I019,hoc_phi,phi,alias,"Cho hỏi, bạn người nước ngoài chuyển khoản từ nước ngoài thì chi phí thế nào?",P019,phí chuyển khoản do sinh viên chịu
+Q022-01,I022,hoc_bong,noi,ten,Muốn xin học bổng doanh nghiệp tài trợ thì thực hiện ở đâu?,P022,Văn phòng khoa
+Q022-02,I022,hoc_bong,noi,ten,Thủ tục xin học bổng doanh nghiệp tài trợ làm tại đơn vị nào?,P022,Văn phòng khoa
+Q022-03,I022,hoc_bong,noi,ten,Nơi tiếp nhận hồ sơ xin học bổng doanh nghiệp tài trợ là đâu ạ?,P022,Văn phòng khoa
+Q022-04,I022,hoc_bong,noi,ten,"Mình cần xin học bổng doanh nghiệp tài trợ, phải liên hệ phòng ban nào vậy?",P022,Văn phòng khoa
+Q022-05,I022,hoc_bong,noi,alias,"Em muốn nhận học bổng của công ty, thì làm ở đâu ạ?",P022,Văn phòng khoa
+Q022-06,I022,hoc_bong,noi,alias,Mình muốn nhận học bổng của công ty thì liên hệ phòng nào?,P022,Văn phòng khoa
+Q022-07,I022,hoc_bong,noi,alias,"Bạn ơi, muốn nhận học bổng của công ty thì phải đến đâu để làm thủ tục?",P022,Văn phòng khoa
+Q022-08,I022,hoc_bong,noi,alias,"Cho hỏi, muốn nhận học bổng của công ty thì đơn vị nào giải quyết?",P022,Văn phòng khoa
+Q022-09,I022,hoc_bong,han,ten,Thời hạn xin học bổng doanh nghiệp tài trợ như thế nào?,P022,trước ngày 30 tháng 10 hằng năm
+Q022-10,I022,hoc_bong,han,ten,Hạn chót để xin học bổng doanh nghiệp tài trợ là khi nào?,P022,trước ngày 30 tháng 10 hằng năm
+Q022-11,I022,hoc_bong,han,ten,Mình phải xin học bổng doanh nghiệp tài trợ trước thời điểm nào?,P022,trước ngày 30 tháng 10 hằng năm
+Q022-12,I022,hoc_bong,han,ten,"Có deadline cho việc xin học bổng doanh nghiệp tài trợ không, là bao giờ?",P022,trước ngày 30 tháng 10 hằng năm
+Q022-13,I022,hoc_bong,han,alias,"Em muốn nhận học bổng của công ty, vậy hạn xử lý là bao lâu?",P022,trước ngày 30 tháng 10 hằng năm
+Q022-14,I022,hoc_bong,han,alias,Mình muốn nhận học bổng của công ty thì phải làm trước khi nào?,P022,trước ngày 30 tháng 10 hằng năm
+Q022-15,I022,hoc_bong,han,alias,"Bạn ơi, muốn nhận học bổng của công ty thì có hạn chót không?",P022,trước ngày 30 tháng 10 hằng năm
+Q022-16,I022,hoc_bong,han,alias,"Cho hỏi, muốn nhận học bổng của công ty thì thời gian nộp hồ sơ ra sao?",P022,trước ngày 30 tháng 10 hằng năm
+Q022-17,I022,hoc_bong,phi,ten,Lệ phí xin học bổng doanh nghiệp tài trợ là bao nhiêu?,P022,miễn phí
+Q022-18,I022,hoc_bong,phi,ten,Xin học bổng doanh nghiệp tài trợ có mất phí không?,P022,miễn phí
+Q022-19,I022,hoc_bong,phi,ten,Chi phí để xin học bổng doanh nghiệp tài trợ là bao nhiêu tiền?,P022,miễn phí
+Q022-20,I022,hoc_bong,phi,ten,Mình xin học bổng doanh nghiệp tài trợ thì phải đóng bao nhiêu?,P022,miễn phí
+Q022-21,I022,hoc_bong,phi,alias,"Em muốn nhận học bổng của công ty, vậy tốn bao nhiêu tiền?",P022,miễn phí
+Q022-22,I022,hoc_bong,phi,alias,Mình muốn nhận học bổng của công ty thì có phải đóng phí không?,P022,miễn phí
+Q022-23,I022,hoc_bong,phi,alias,"Bạn ơi, muốn nhận học bổng của công ty thì hết bao nhiêu vậy?",P022,miễn phí
+Q022-24,I022,hoc_bong,phi,alias,"Cho hỏi, muốn nhận học bổng của công ty thì chi phí thế nào?",P022,miễn phí
+Q030-01,I030,hoc_bong,noi,ten,Muốn xét học bổng vượt khó thì thực hiện ở đâu?,P030,Phòng Công tác sinh viên
+Q030-02,I030,hoc_bong,noi,ten,Thủ tục xét học bổng vượt khó làm tại đơn vị nào?,P030,Phòng Công tác sinh viên
+Q030-03,I030,hoc_bong,noi,ten,Nơi tiếp nhận hồ sơ xét học bổng vượt khó là đâu ạ?,P030,Phòng Công tác sinh viên
+Q030-04,I030,hoc_bong,noi,ten,"Mình cần xét học bổng vượt khó, phải liên hệ phòng ban nào vậy?",P030,Phòng Công tác sinh viên
+Q030-05,I030,hoc_bong,noi,alias,"Em hoàn cảnh khó mà vẫn học tốt nên muốn xin, thì làm ở đâu ạ?",P030,Phòng Công tác sinh viên
+Q030-06,I030,hoc_bong,noi,alias,Mình hoàn cảnh khó mà vẫn học tốt nên muốn xin thì liên hệ phòng nào?,P030,Phòng Công tác sinh viên
+Q030-07,I030,hoc_bong,noi,alias,"Bạn ơi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì phải đến đâu để làm thủ tục?",P030,Phòng Công tác sinh viên
+Q030-08,I030,hoc_bong,noi,alias,"Cho hỏi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì đơn vị nào giải quyết?",P030,Phòng Công tác sinh viên
+Q030-09,I030,hoc_bong,han,ten,Thời hạn xét học bổng vượt khó như thế nào?,P030,3 tuần đầu học kỳ
+Q030-10,I030,hoc_bong,han,ten,Hạn chót để xét học bổng vượt khó là khi nào?,P030,3 tuần đầu học kỳ
+Q030-11,I030,hoc_bong,han,ten,Mình phải xét học bổng vượt khó trước thời điểm nào?,P030,3 tuần đầu học kỳ
+Q030-12,I030,hoc_bong,han,ten,"Có deadline cho việc xét học bổng vượt khó không, là bao giờ?",P030,3 tuần đầu học kỳ
+Q030-13,I030,hoc_bong,han,alias,"Em hoàn cảnh khó mà vẫn học tốt nên muốn xin, vậy hạn xử lý là bao lâu?",P030,3 tuần đầu học kỳ
+Q030-14,I030,hoc_bong,han,alias,Mình hoàn cảnh khó mà vẫn học tốt nên muốn xin thì phải làm trước khi nào?,P030,3 tuần đầu học kỳ
+Q030-15,I030,hoc_bong,han,alias,"Bạn ơi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì có hạn chót không?",P030,3 tuần đầu học kỳ
+Q030-16,I030,hoc_bong,han,alias,"Cho hỏi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì thời gian nộp hồ sơ ra sao?",P030,3 tuần đầu học kỳ
+Q030-17,I030,hoc_bong,phi,ten,Lệ phí xét học bổng vượt khó là bao nhiêu?,P030,miễn phí
+Q030-18,I030,hoc_bong,phi,ten,Xét học bổng vượt khó có mất phí không?,P030,miễn phí
+Q030-19,I030,hoc_bong,phi,ten,Chi phí để xét học bổng vượt khó là bao nhiêu tiền?,P030,miễn phí
+Q030-20,I030,hoc_bong,phi,ten,Mình xét học bổng vượt khó thì phải đóng bao nhiêu?,P030,miễn phí
+Q030-21,I030,hoc_bong,phi,alias,"Em hoàn cảnh khó mà vẫn học tốt nên muốn xin, vậy tốn bao nhiêu tiền?",P030,miễn phí
+Q030-22,I030,hoc_bong,phi,alias,Mình hoàn cảnh khó mà vẫn học tốt nên muốn xin thì có phải đóng phí không?,P030,miễn phí
+Q030-23,I030,hoc_bong,phi,alias,"Bạn ơi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì hết bao nhiêu vậy?",P030,miễn phí
+Q030-24,I030,hoc_bong,phi,alias,"Cho hỏi, hoàn cảnh khó mà vẫn học tốt nên muốn xin thì chi phí thế nào?",P030,miễn phí
+Q032-01,I032,thi_diem,noi,ten,Muốn hoãn thi thì thực hiện ở đâu?,P032,Văn phòng khoa
+Q032-02,I032,thi_diem,noi,ten,Thủ tục hoãn thi làm tại đơn vị nào?,P032,Văn phòng khoa
+Q032-03,I032,thi_diem,noi,ten,Nơi tiếp nhận hồ sơ hoãn thi là đâu ạ?,P032,Văn phòng khoa
+Q032-04,I032,thi_diem,noi,ten,"Mình cần hoãn thi, phải liên hệ phòng ban nào vậy?",P032,Văn phòng khoa
+Q032-05,I032,thi_diem,noi,alias,"Em bị ốm không đi thi được, thì làm ở đâu ạ?",P032,Văn phòng khoa
+Q032-06,I032,thi_diem,noi,alias,Mình bị ốm không đi thi được thì liên hệ phòng nào?,P032,Văn phòng khoa
+Q032-07,I032,thi_diem,noi,alias,"Bạn ơi, bị ốm không đi thi được thì phải đến đâu để làm thủ tục?",P032,Văn phòng khoa
+Q032-08,I032,thi_diem,noi,alias,"Cho hỏi, bị ốm không đi thi được thì đơn vị nào giải quyết?",P032,Văn phòng khoa
+Q032-09,I032,thi_diem,han,ten,Thời hạn hoãn thi như thế nào?,P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-10,I032,thi_diem,han,ten,Hạn chót để hoãn thi là khi nào?,P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-11,I032,thi_diem,han,ten,Mình phải hoãn thi trước thời điểm nào?,P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-12,I032,thi_diem,han,ten,"Có deadline cho việc hoãn thi không, là bao giờ?",P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-13,I032,thi_diem,han,alias,"Em bị ốm không đi thi được, vậy hạn xử lý là bao lâu?",P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-14,I032,thi_diem,han,alias,Mình bị ốm không đi thi được thì phải làm trước khi nào?,P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-15,I032,thi_diem,han,alias,"Bạn ơi, bị ốm không đi thi được thì có hạn chót không?",P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-16,I032,thi_diem,han,alias,"Cho hỏi, bị ốm không đi thi được thì thời gian nộp hồ sơ ra sao?",P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q032-17,I032,thi_diem,phi,ten,Lệ phí hoãn thi là bao nhiêu?,P032,miễn phí
+Q032-18,I032,thi_diem,phi,ten,Hoãn thi có mất phí không?,P032,miễn phí
+Q032-19,I032,thi_diem,phi,ten,Chi phí để hoãn thi là bao nhiêu tiền?,P032,miễn phí
+Q032-20,I032,thi_diem,phi,ten,Mình hoãn thi thì phải đóng bao nhiêu?,P032,miễn phí
+Q032-21,I032,thi_diem,phi,alias,"Em bị ốm không đi thi được, vậy tốn bao nhiêu tiền?",P032,miễn phí
+Q032-22,I032,thi_diem,phi,alias,Mình bị ốm không đi thi được thì có phải đóng phí không?,P032,miễn phí
+Q032-23,I032,thi_diem,phi,alias,"Bạn ơi, bị ốm không đi thi được thì hết bao nhiêu vậy?",P032,miễn phí
+Q032-24,I032,thi_diem,phi,alias,"Cho hỏi, bị ốm không đi thi được thì chi phí thế nào?",P032,miễn phí
+Q033-01,I033,thi_diem,noi,ten,Muốn đăng ký thi lại thì thực hiện ở đâu?,P033,Phòng Khảo thí
+Q033-02,I033,thi_diem,noi,ten,Thủ tục đăng ký thi lại làm tại đơn vị nào?,P033,Phòng Khảo thí
+Q033-03,I033,thi_diem,noi,ten,Nơi tiếp nhận hồ sơ đăng ký thi lại là đâu ạ?,P033,Phòng Khảo thí
+Q033-04,I033,thi_diem,noi,ten,"Mình cần đăng ký thi lại, phải liên hệ phòng ban nào vậy?",P033,Phòng Khảo thí
+Q033-05,I033,thi_diem,noi,alias,"Em thi rớt môn muốn thi lần nữa, thì làm ở đâu ạ?",P033,Phòng Khảo thí
+Q033-06,I033,thi_diem,noi,alias,Mình thi rớt môn muốn thi lần nữa thì liên hệ phòng nào?,P033,Phòng Khảo thí
+Q033-07,I033,thi_diem,noi,alias,"Bạn ơi, thi rớt môn muốn thi lần nữa thì phải đến đâu để làm thủ tục?",P033,Phòng Khảo thí
+Q033-08,I033,thi_diem,noi,alias,"Cho hỏi, thi rớt môn muốn thi lần nữa thì đơn vị nào giải quyết?",P033,Phòng Khảo thí
+Q033-09,I033,thi_diem,han,ten,Thời hạn đăng ký thi lại như thế nào?,P033,7 ngày sau khi có điểm
+Q033-10,I033,thi_diem,han,ten,Hạn chót để đăng ký thi lại là khi nào?,P033,7 ngày sau khi có điểm
+Q033-11,I033,thi_diem,han,ten,Mình phải đăng ký thi lại trước thời điểm nào?,P033,7 ngày sau khi có điểm
+Q033-12,I033,thi_diem,han,ten,"Có deadline cho việc đăng ký thi lại không, là bao giờ?",P033,7 ngày sau khi có điểm
+Q033-13,I033,thi_diem,han,alias,"Em thi rớt môn muốn thi lần nữa, vậy hạn xử lý là bao lâu?",P033,7 ngày sau khi có điểm
+Q033-14,I033,thi_diem,han,alias,Mình thi rớt môn muốn thi lần nữa thì phải làm trước khi nào?,P033,7 ngày sau khi có điểm
+Q033-15,I033,thi_diem,han,alias,"Bạn ơi, thi rớt môn muốn thi lần nữa thì có hạn chót không?",P033,7 ngày sau khi có điểm
+Q033-16,I033,thi_diem,han,alias,"Cho hỏi, thi rớt môn muốn thi lần nữa thì thời gian nộp hồ sơ ra sao?",P033,7 ngày sau khi có điểm
+Q033-17,I033,thi_diem,phi,ten,Lệ phí đăng ký thi lại là bao nhiêu?,P033,100.000 đồng mỗi môn
+Q033-18,I033,thi_diem,phi,ten,Đăng ký thi lại có mất phí không?,P033,100.000 đồng mỗi môn
+Q033-19,I033,thi_diem,phi,ten,Chi phí để đăng ký thi lại là bao nhiêu tiền?,P033,100.000 đồng mỗi môn
+Q033-20,I033,thi_diem,phi,ten,Mình đăng ký thi lại thì phải đóng bao nhiêu?,P033,100.000 đồng mỗi môn
+Q033-21,I033,thi_diem,phi,alias,"Em thi rớt môn muốn thi lần nữa, vậy tốn bao nhiêu tiền?",P033,100.000 đồng mỗi môn
+Q033-22,I033,thi_diem,phi,alias,Mình thi rớt môn muốn thi lần nữa thì có phải đóng phí không?,P033,100.000 đồng mỗi môn
+Q033-23,I033,thi_diem,phi,alias,"Bạn ơi, thi rớt môn muốn thi lần nữa thì hết bao nhiêu vậy?",P033,100.000 đồng mỗi môn
+Q033-24,I033,thi_diem,phi,alias,"Cho hỏi, thi rớt môn muốn thi lần nữa thì chi phí thế nào?",P033,100.000 đồng mỗi môn
+Q037-01,I037,thi_diem,noi,ten,Muốn đăng ký thi chuẩn đầu ra ngoại ngữ thì thực hiện ở đâu?,P037,Trung tâm Ngoại ngữ
+Q037-02,I037,thi_diem,noi,ten,Thủ tục đăng ký thi chuẩn đầu ra ngoại ngữ làm tại đơn vị nào?,P037,Trung tâm Ngoại ngữ
+Q037-03,I037,thi_diem,noi,ten,Nơi tiếp nhận hồ sơ đăng ký thi chuẩn đầu ra ngoại ngữ là đâu ạ?,P037,Trung tâm Ngoại ngữ
+Q037-04,I037,thi_diem,noi,ten,"Mình cần đăng ký thi chuẩn đầu ra ngoại ngữ, phải liên hệ phòng ban nào vậy?",P037,Trung tâm Ngoại ngữ
+Q037-05,I037,thi_diem,noi,alias,"Em muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường, thì làm ở đâu ạ?",P037,Trung tâm Ngoại ngữ
+Q037-06,I037,thi_diem,noi,alias,Mình muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì liên hệ phòng nào?,P037,Trung tâm Ngoại ngữ
+Q037-07,I037,thi_diem,noi,alias,"Bạn ơi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì phải đến đâu để làm thủ tục?",P037,Trung tâm Ngoại ngữ
+Q037-08,I037,thi_diem,noi,alias,"Cho hỏi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì đơn vị nào giải quyết?",P037,Trung tâm Ngoại ngữ
+Q037-09,I037,thi_diem,han,ten,Thời hạn đăng ký thi chuẩn đầu ra ngoại ngữ như thế nào?,P037,3 tuần trước ngày thi
+Q037-10,I037,thi_diem,han,ten,Hạn chót để đăng ký thi chuẩn đầu ra ngoại ngữ là khi nào?,P037,3 tuần trước ngày thi
+Q037-11,I037,thi_diem,han,ten,Mình phải đăng ký thi chuẩn đầu ra ngoại ngữ trước thời điểm nào?,P037,3 tuần trước ngày thi
+Q037-12,I037,thi_diem,han,ten,"Có deadline cho việc đăng ký thi chuẩn đầu ra ngoại ngữ không, là bao giờ?",P037,3 tuần trước ngày thi
+Q037-13,I037,thi_diem,han,alias,"Em muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường, vậy hạn xử lý là bao lâu?",P037,3 tuần trước ngày thi
+Q037-14,I037,thi_diem,han,alias,Mình muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì phải làm trước khi nào?,P037,3 tuần trước ngày thi
+Q037-15,I037,thi_diem,han,alias,"Bạn ơi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì có hạn chót không?",P037,3 tuần trước ngày thi
+Q037-16,I037,thi_diem,han,alias,"Cho hỏi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì thời gian nộp hồ sơ ra sao?",P037,3 tuần trước ngày thi
+Q037-17,I037,thi_diem,phi,ten,Lệ phí đăng ký thi chuẩn đầu ra ngoại ngữ là bao nhiêu?,P037,400.000 đồng mỗi lần thi
+Q037-18,I037,thi_diem,phi,ten,Đăng ký thi chuẩn đầu ra ngoại ngữ có mất phí không?,P037,400.000 đồng mỗi lần thi
+Q037-19,I037,thi_diem,phi,ten,Chi phí để đăng ký thi chuẩn đầu ra ngoại ngữ là bao nhiêu tiền?,P037,400.000 đồng mỗi lần thi
+Q037-20,I037,thi_diem,phi,ten,Mình đăng ký thi chuẩn đầu ra ngoại ngữ thì phải đóng bao nhiêu?,P037,400.000 đồng mỗi lần thi
+Q037-21,I037,thi_diem,phi,alias,"Em muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường, vậy tốn bao nhiêu tiền?",P037,400.000 đồng mỗi lần thi
+Q037-22,I037,thi_diem,phi,alias,Mình muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì có phải đóng phí không?,P037,400.000 đồng mỗi lần thi
+Q037-23,I037,thi_diem,phi,alias,"Bạn ơi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì hết bao nhiêu vậy?",P037,400.000 đồng mỗi lần thi
+Q037-24,I037,thi_diem,phi,alias,"Cho hỏi, muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì chi phí thế nào?",P037,400.000 đồng mỗi lần thi
+Q043-01,I043,tot_nghiep,noi,ten,Muốn cấp bản sao bằng tốt nghiệp thì thực hiện ở đâu?,P043,Phòng Đào tạo
+Q043-02,I043,tot_nghiep,noi,ten,Thủ tục cấp bản sao bằng tốt nghiệp làm tại đơn vị nào?,P043,Phòng Đào tạo
+Q043-03,I043,tot_nghiep,noi,ten,Nơi tiếp nhận hồ sơ cấp bản sao bằng tốt nghiệp là đâu ạ?,P043,Phòng Đào tạo
+Q043-04,I043,tot_nghiep,noi,ten,"Mình cần cấp bản sao bằng tốt nghiệp, phải liên hệ phòng ban nào vậy?",P043,Phòng Đào tạo
+Q043-05,I043,tot_nghiep,noi,alias,"Em làm mất bằng gốc cần bản sao, thì làm ở đâu ạ?",P043,Phòng Đào tạo
+Q043-06,I043,tot_nghiep,noi,alias,Mình làm mất bằng gốc cần bản sao thì liên hệ phòng nào?,P043,Phòng Đào tạo
+Q043-07,I043,tot_nghiep,noi,alias,"Bạn ơi, làm mất bằng gốc cần bản sao thì phải đến đâu để làm thủ tục?",P043,Phòng Đào tạo
+Q043-08,I043,tot_nghiep,noi,alias,"Cho hỏi, làm mất bằng gốc cần bản sao thì đơn vị nào giải quyết?",P043,Phòng Đào tạo
+Q043-09,I043,tot_nghiep,han,ten,Thời hạn cấp bản sao bằng tốt nghiệp như thế nào?,P043,7 ngày làm việc
+Q043-10,I043,tot_nghiep,han,ten,Hạn chót để cấp bản sao bằng tốt nghiệp là khi nào?,P043,7 ngày làm việc
+Q043-11,I043,tot_nghiep,han,ten,Mình phải cấp bản sao bằng tốt nghiệp trước thời điểm nào?,P043,7 ngày làm việc
+Q043-12,I043,tot_nghiep,han,ten,"Có deadline cho việc cấp bản sao bằng tốt nghiệp không, là bao giờ?",P043,7 ngày làm việc
+Q043-13,I043,tot_nghiep,han,alias,"Em làm mất bằng gốc cần bản sao, vậy hạn xử lý là bao lâu?",P043,7 ngày làm việc
+Q043-14,I043,tot_nghiep,han,alias,Mình làm mất bằng gốc cần bản sao thì phải làm trước khi nào?,P043,7 ngày làm việc
+Q043-15,I043,tot_nghiep,han,alias,"Bạn ơi, làm mất bằng gốc cần bản sao thì có hạn chót không?",P043,7 ngày làm việc
+Q043-16,I043,tot_nghiep,han,alias,"Cho hỏi, làm mất bằng gốc cần bản sao thì thời gian nộp hồ sơ ra sao?",P043,7 ngày làm việc
+Q043-17,I043,tot_nghiep,phi,ten,Lệ phí cấp bản sao bằng tốt nghiệp là bao nhiêu?,P043,30.000 đồng mỗi bản
+Q043-18,I043,tot_nghiep,phi,ten,Cấp bản sao bằng tốt nghiệp có mất phí không?,P043,30.000 đồng mỗi bản
+Q043-19,I043,tot_nghiep,phi,ten,Chi phí để cấp bản sao bằng tốt nghiệp là bao nhiêu tiền?,P043,30.000 đồng mỗi bản
+Q043-20,I043,tot_nghiep,phi,ten,Mình cấp bản sao bằng tốt nghiệp thì phải đóng bao nhiêu?,P043,30.000 đồng mỗi bản
+Q043-21,I043,tot_nghiep,phi,alias,"Em làm mất bằng gốc cần bản sao, vậy tốn bao nhiêu tiền?",P043,30.000 đồng mỗi bản
+Q043-22,I043,tot_nghiep,phi,alias,Mình làm mất bằng gốc cần bản sao thì có phải đóng phí không?,P043,30.000 đồng mỗi bản
+Q043-23,I043,tot_nghiep,phi,alias,"Bạn ơi, làm mất bằng gốc cần bản sao thì hết bao nhiêu vậy?",P043,30.000 đồng mỗi bản
+Q043-24,I043,tot_nghiep,phi,alias,"Cho hỏi, làm mất bằng gốc cần bản sao thì chi phí thế nào?",P043,30.000 đồng mỗi bản
+Q047-01,I047,tot_nghiep,noi,ten,Muốn nộp khóa luận tốt nghiệp thì thực hiện ở đâu?,P047,Văn phòng khoa
+Q047-02,I047,tot_nghiep,noi,ten,Thủ tục nộp khóa luận tốt nghiệp làm tại đơn vị nào?,P047,Văn phòng khoa
+Q047-03,I047,tot_nghiep,noi,ten,Nơi tiếp nhận hồ sơ nộp khóa luận tốt nghiệp là đâu ạ?,P047,Văn phòng khoa
+Q047-04,I047,tot_nghiep,noi,ten,"Mình cần nộp khóa luận tốt nghiệp, phải liên hệ phòng ban nào vậy?",P047,Văn phòng khoa
+Q047-05,I047,tot_nghiep,noi,alias,"Em nộp quyển khóa luận cuối cùng, thì làm ở đâu ạ?",P047,Văn phòng khoa
+Q047-06,I047,tot_nghiep,noi,alias,Mình nộp quyển khóa luận cuối cùng thì liên hệ phòng nào?,P047,Văn phòng khoa
+Q047-07,I047,tot_nghiep,noi,alias,"Bạn ơi, nộp quyển khóa luận cuối cùng thì phải đến đâu để làm thủ tục?",P047,Văn phòng khoa
+Q047-08,I047,tot_nghiep,noi,alias,"Cho hỏi, nộp quyển khóa luận cuối cùng thì đơn vị nào giải quyết?",P047,Văn phòng khoa
+Q047-09,I047,tot_nghiep,han,ten,Thời hạn nộp khóa luận tốt nghiệp như thế nào?,P047,trước ngày bảo vệ 7 ngày
+Q047-10,I047,tot_nghiep,han,ten,Hạn chót để nộp khóa luận tốt nghiệp là khi nào?,P047,trước ngày bảo vệ 7 ngày
+Q047-11,I047,tot_nghiep,han,ten,Mình phải nộp khóa luận tốt nghiệp trước thời điểm nào?,P047,trước ngày bảo vệ 7 ngày
+Q047-12,I047,tot_nghiep,han,ten,"Có deadline cho việc nộp khóa luận tốt nghiệp không, là bao giờ?",P047,trước ngày bảo vệ 7 ngày
+Q047-13,I047,tot_nghiep,han,alias,"Em nộp quyển khóa luận cuối cùng, vậy hạn xử lý là bao lâu?",P047,trước ngày bảo vệ 7 ngày
+Q047-14,I047,tot_nghiep,han,alias,Mình nộp quyển khóa luận cuối cùng thì phải làm trước khi nào?,P047,trước ngày bảo vệ 7 ngày
+Q047-15,I047,tot_nghiep,han,alias,"Bạn ơi, nộp quyển khóa luận cuối cùng thì có hạn chót không?",P047,trước ngày bảo vệ 7 ngày
+Q047-16,I047,tot_nghiep,han,alias,"Cho hỏi, nộp quyển khóa luận cuối cùng thì thời gian nộp hồ sơ ra sao?",P047,trước ngày bảo vệ 7 ngày
+Q047-17,I047,tot_nghiep,phi,ten,Lệ phí nộp khóa luận tốt nghiệp là bao nhiêu?,P047,miễn phí
+Q047-18,I047,tot_nghiep,phi,ten,Nộp khóa luận tốt nghiệp có mất phí không?,P047,miễn phí
+Q047-19,I047,tot_nghiep,phi,ten,Chi phí để nộp khóa luận tốt nghiệp là bao nhiêu tiền?,P047,miễn phí
+Q047-20,I047,tot_nghiep,phi,ten,Mình nộp khóa luận tốt nghiệp thì phải đóng bao nhiêu?,P047,miễn phí
+Q047-21,I047,tot_nghiep,phi,alias,"Em nộp quyển khóa luận cuối cùng, vậy tốn bao nhiêu tiền?",P047,miễn phí
+Q047-22,I047,tot_nghiep,phi,alias,Mình nộp quyển khóa luận cuối cùng thì có phải đóng phí không?,P047,miễn phí
+Q047-23,I047,tot_nghiep,phi,alias,"Bạn ơi, nộp quyển khóa luận cuối cùng thì hết bao nhiêu vậy?",P047,miễn phí
+Q047-24,I047,tot_nghiep,phi,alias,"Cho hỏi, nộp quyển khóa luận cuối cùng thì chi phí thế nào?",P047,miễn phí
+Q049-01,I049,tot_nghiep,noi,ten,Muốn điều chỉnh thông tin trên văn bằng thì thực hiện ở đâu?,P049,Phòng Đào tạo
+Q049-02,I049,tot_nghiep,noi,ten,Thủ tục điều chỉnh thông tin trên văn bằng làm tại đơn vị nào?,P049,Phòng Đào tạo
+Q049-03,I049,tot_nghiep,noi,ten,Nơi tiếp nhận hồ sơ điều chỉnh thông tin trên văn bằng là đâu ạ?,P049,Phòng Đào tạo
+Q049-04,I049,tot_nghiep,noi,ten,"Mình cần điều chỉnh thông tin trên văn bằng, phải liên hệ phòng ban nào vậy?",P049,Phòng Đào tạo
+Q049-05,I049,tot_nghiep,noi,alias,"Em họ tên ghi sai trên bằng muốn sửa lại, thì làm ở đâu ạ?",P049,Phòng Đào tạo
+Q049-06,I049,tot_nghiep,noi,alias,Mình họ tên ghi sai trên bằng muốn sửa lại thì liên hệ phòng nào?,P049,Phòng Đào tạo
+Q049-07,I049,tot_nghiep,noi,alias,"Bạn ơi, họ tên ghi sai trên bằng muốn sửa lại thì phải đến đâu để làm thủ tục?",P049,Phòng Đào tạo
+Q049-08,I049,tot_nghiep,noi,alias,"Cho hỏi, họ tên ghi sai trên bằng muốn sửa lại thì đơn vị nào giải quyết?",P049,Phòng Đào tạo
+Q049-09,I049,tot_nghiep,han,ten,Thời hạn điều chỉnh thông tin trên văn bằng như thế nào?,P049,15 ngày làm việc
+Q049-10,I049,tot_nghiep,han,ten,Hạn chót để điều chỉnh thông tin trên văn bằng là khi nào?,P049,15 ngày làm việc
+Q049-11,I049,tot_nghiep,han,ten,Mình phải điều chỉnh thông tin trên văn bằng trước thời điểm nào?,P049,15 ngày làm việc
+Q049-12,I049,tot_nghiep,han,ten,"Có deadline cho việc điều chỉnh thông tin trên văn bằng không, là bao giờ?",P049,15 ngày làm việc
+Q049-13,I049,tot_nghiep,han,alias,"Em họ tên ghi sai trên bằng muốn sửa lại, vậy hạn xử lý là bao lâu?",P049,15 ngày làm việc
+Q049-14,I049,tot_nghiep,han,alias,Mình họ tên ghi sai trên bằng muốn sửa lại thì phải làm trước khi nào?,P049,15 ngày làm việc
+Q049-15,I049,tot_nghiep,han,alias,"Bạn ơi, họ tên ghi sai trên bằng muốn sửa lại thì có hạn chót không?",P049,15 ngày làm việc
+Q049-16,I049,tot_nghiep,han,alias,"Cho hỏi, họ tên ghi sai trên bằng muốn sửa lại thì thời gian nộp hồ sơ ra sao?",P049,15 ngày làm việc
+Q049-17,I049,tot_nghiep,phi,ten,Lệ phí điều chỉnh thông tin trên văn bằng là bao nhiêu?,P049,150.000 đồng
+Q049-18,I049,tot_nghiep,phi,ten,Điều chỉnh thông tin trên văn bằng có mất phí không?,P049,150.000 đồng
+Q049-19,I049,tot_nghiep,phi,ten,Chi phí để điều chỉnh thông tin trên văn bằng là bao nhiêu tiền?,P049,150.000 đồng
+Q049-20,I049,tot_nghiep,phi,ten,Mình điều chỉnh thông tin trên văn bằng thì phải đóng bao nhiêu?,P049,150.000 đồng
+Q049-21,I049,tot_nghiep,phi,alias,"Em họ tên ghi sai trên bằng muốn sửa lại, vậy tốn bao nhiêu tiền?",P049,150.000 đồng
+Q049-22,I049,tot_nghiep,phi,alias,Mình họ tên ghi sai trên bằng muốn sửa lại thì có phải đóng phí không?,P049,150.000 đồng
+Q049-23,I049,tot_nghiep,phi,alias,"Bạn ơi, họ tên ghi sai trên bằng muốn sửa lại thì hết bao nhiêu vậy?",P049,150.000 đồng
+Q049-24,I049,tot_nghiep,phi,alias,"Cho hỏi, họ tên ghi sai trên bằng muốn sửa lại thì chi phí thế nào?",P049,150.000 đồng
+Q053-01,I053,ky_tuc_xa,noi,ten,Muốn chuyển phòng ký túc xá thì thực hiện ở đâu?,P053,Ban quản lý ký túc xá
+Q053-02,I053,ky_tuc_xa,noi,ten,Thủ tục chuyển phòng ký túc xá làm tại đơn vị nào?,P053,Ban quản lý ký túc xá
+Q053-03,I053,ky_tuc_xa,noi,ten,Nơi tiếp nhận hồ sơ chuyển phòng ký túc xá là đâu ạ?,P053,Ban quản lý ký túc xá
+Q053-04,I053,ky_tuc_xa,noi,ten,"Mình cần chuyển phòng ký túc xá, phải liên hệ phòng ban nào vậy?",P053,Ban quản lý ký túc xá
+Q053-05,I053,ky_tuc_xa,noi,alias,"Em muốn đổi sang phòng khác, thì làm ở đâu ạ?",P053,Ban quản lý ký túc xá
+Q053-06,I053,ky_tuc_xa,noi,alias,Mình muốn đổi sang phòng khác thì liên hệ phòng nào?,P053,Ban quản lý ký túc xá
+Q053-07,I053,ky_tuc_xa,noi,alias,"Bạn ơi, muốn đổi sang phòng khác thì phải đến đâu để làm thủ tục?",P053,Ban quản lý ký túc xá
+Q053-08,I053,ky_tuc_xa,noi,alias,"Cho hỏi, muốn đổi sang phòng khác thì đơn vị nào giải quyết?",P053,Ban quản lý ký túc xá
+Q053-09,I053,ky_tuc_xa,han,ten,Thời hạn chuyển phòng ký túc xá như thế nào?,P053,bất kỳ lúc nào trừ tuần thi
+Q053-10,I053,ky_tuc_xa,han,ten,Hạn chót để chuyển phòng ký túc xá là khi nào?,P053,bất kỳ lúc nào trừ tuần thi
+Q053-11,I053,ky_tuc_xa,han,ten,Mình phải chuyển phòng ký túc xá trước thời điểm nào?,P053,bất kỳ lúc nào trừ tuần thi
+Q053-12,I053,ky_tuc_xa,han,ten,"Có deadline cho việc chuyển phòng ký túc xá không, là bao giờ?",P053,bất kỳ lúc nào trừ tuần thi
+Q053-13,I053,ky_tuc_xa,han,alias,"Em muốn đổi sang phòng khác, vậy hạn xử lý là bao lâu?",P053,bất kỳ lúc nào trừ tuần thi
+Q053-14,I053,ky_tuc_xa,han,alias,Mình muốn đổi sang phòng khác thì phải làm trước khi nào?,P053,bất kỳ lúc nào trừ tuần thi
+Q053-15,I053,ky_tuc_xa,han,alias,"Bạn ơi, muốn đổi sang phòng khác thì có hạn chót không?",P053,bất kỳ lúc nào trừ tuần thi
+Q053-16,I053,ky_tuc_xa,han,alias,"Cho hỏi, muốn đổi sang phòng khác thì thời gian nộp hồ sơ ra sao?",P053,bất kỳ lúc nào trừ tuần thi
+Q053-17,I053,ky_tuc_xa,phi,ten,Lệ phí chuyển phòng ký túc xá là bao nhiêu?,P053,30.000 đồng
+Q053-18,I053,ky_tuc_xa,phi,ten,Chuyển phòng ký túc xá có mất phí không?,P053,30.000 đồng
+Q053-19,I053,ky_tuc_xa,phi,ten,Chi phí để chuyển phòng ký túc xá là bao nhiêu tiền?,P053,30.000 đồng
+Q053-20,I053,ky_tuc_xa,phi,ten,Mình chuyển phòng ký túc xá thì phải đóng bao nhiêu?,P053,30.000 đồng
+Q053-21,I053,ky_tuc_xa,phi,alias,"Em muốn đổi sang phòng khác, vậy tốn bao nhiêu tiền?",P053,30.000 đồng
+Q053-22,I053,ky_tuc_xa,phi,alias,Mình muốn đổi sang phòng khác thì có phải đóng phí không?,P053,30.000 đồng
+Q053-23,I053,ky_tuc_xa,phi,alias,"Bạn ơi, muốn đổi sang phòng khác thì hết bao nhiêu vậy?",P053,30.000 đồng
+Q053-24,I053,ky_tuc_xa,phi,alias,"Cho hỏi, muốn đổi sang phòng khác thì chi phí thế nào?",P053,30.000 đồng
+Q054-01,I054,ky_tuc_xa,noi,ten,Muốn trả phòng ký túc xá thì thực hiện ở đâu?,P054,Ban quản lý ký túc xá
+Q054-02,I054,ky_tuc_xa,noi,ten,Thủ tục trả phòng ký túc xá làm tại đơn vị nào?,P054,Ban quản lý ký túc xá
+Q054-03,I054,ky_tuc_xa,noi,ten,Nơi tiếp nhận hồ sơ trả phòng ký túc xá là đâu ạ?,P054,Ban quản lý ký túc xá
+Q054-04,I054,ky_tuc_xa,noi,ten,"Mình cần trả phòng ký túc xá, phải liên hệ phòng ban nào vậy?",P054,Ban quản lý ký túc xá
+Q054-05,I054,ky_tuc_xa,noi,alias,"Em muốn dọn ra ở ngoài giữa kỳ, thì làm ở đâu ạ?",P054,Ban quản lý ký túc xá
+Q054-06,I054,ky_tuc_xa,noi,alias,Mình muốn dọn ra ở ngoài giữa kỳ thì liên hệ phòng nào?,P054,Ban quản lý ký túc xá
+Q054-07,I054,ky_tuc_xa,noi,alias,"Bạn ơi, muốn dọn ra ở ngoài giữa kỳ thì phải đến đâu để làm thủ tục?",P054,Ban quản lý ký túc xá
+Q054-08,I054,ky_tuc_xa,noi,alias,"Cho hỏi, muốn dọn ra ở ngoài giữa kỳ thì đơn vị nào giải quyết?",P054,Ban quản lý ký túc xá
+Q054-09,I054,ky_tuc_xa,han,ten,Thời hạn trả phòng ký túc xá như thế nào?,P054,báo trước 7 ngày
+Q054-10,I054,ky_tuc_xa,han,ten,Hạn chót để trả phòng ký túc xá là khi nào?,P054,báo trước 7 ngày
+Q054-11,I054,ky_tuc_xa,han,ten,Mình phải trả phòng ký túc xá trước thời điểm nào?,P054,báo trước 7 ngày
+Q054-12,I054,ky_tuc_xa,han,ten,"Có deadline cho việc trả phòng ký túc xá không, là bao giờ?",P054,báo trước 7 ngày
+Q054-13,I054,ky_tuc_xa,han,alias,"Em muốn dọn ra ở ngoài giữa kỳ, vậy hạn xử lý là bao lâu?",P054,báo trước 7 ngày
+Q054-14,I054,ky_tuc_xa,han,alias,Mình muốn dọn ra ở ngoài giữa kỳ thì phải làm trước khi nào?,P054,báo trước 7 ngày
+Q054-15,I054,ky_tuc_xa,han,alias,"Bạn ơi, muốn dọn ra ở ngoài giữa kỳ thì có hạn chót không?",P054,báo trước 7 ngày
+Q054-16,I054,ky_tuc_xa,han,alias,"Cho hỏi, muốn dọn ra ở ngoài giữa kỳ thì thời gian nộp hồ sơ ra sao?",P054,báo trước 7 ngày
+Q054-17,I054,ky_tuc_xa,phi,ten,Lệ phí trả phòng ký túc xá là bao nhiêu?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-18,I054,ky_tuc_xa,phi,ten,Trả phòng ký túc xá có mất phí không?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-19,I054,ky_tuc_xa,phi,ten,Chi phí để trả phòng ký túc xá là bao nhiêu tiền?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-20,I054,ky_tuc_xa,phi,ten,Mình trả phòng ký túc xá thì phải đóng bao nhiêu?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-21,I054,ky_tuc_xa,phi,alias,"Em muốn dọn ra ở ngoài giữa kỳ, vậy tốn bao nhiêu tiền?",P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-22,I054,ky_tuc_xa,phi,alias,Mình muốn dọn ra ở ngoài giữa kỳ thì có phải đóng phí không?,P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-23,I054,ky_tuc_xa,phi,alias,"Bạn ơi, muốn dọn ra ở ngoài giữa kỳ thì hết bao nhiêu vậy?",P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q054-24,I054,ky_tuc_xa,phi,alias,"Cho hỏi, muốn dọn ra ở ngoài giữa kỳ thì chi phí thế nào?",P054,hoàn lại tiền đặt cọc nếu không hư hỏng
+Q057-01,I057,ky_tuc_xa,noi,ten,Muốn báo hỏng thiết bị trong phòng thì thực hiện ở đâu?,P057,Ban quản lý ký túc xá
+Q057-02,I057,ky_tuc_xa,noi,ten,Thủ tục báo hỏng thiết bị trong phòng làm tại đơn vị nào?,P057,Ban quản lý ký túc xá
+Q057-03,I057,ky_tuc_xa,noi,ten,Nơi tiếp nhận hồ sơ báo hỏng thiết bị trong phòng là đâu ạ?,P057,Ban quản lý ký túc xá
+Q057-04,I057,ky_tuc_xa,noi,ten,"Mình cần báo hỏng thiết bị trong phòng, phải liên hệ phòng ban nào vậy?",P057,Ban quản lý ký túc xá
+Q057-05,I057,ky_tuc_xa,noi,alias,"Em điều hòa trong phòng bị hư, thì làm ở đâu ạ?",P057,Ban quản lý ký túc xá
+Q057-06,I057,ky_tuc_xa,noi,alias,Mình điều hòa trong phòng bị hư thì liên hệ phòng nào?,P057,Ban quản lý ký túc xá
+Q057-07,I057,ky_tuc_xa,noi,alias,"Bạn ơi, điều hòa trong phòng bị hư thì phải đến đâu để làm thủ tục?",P057,Ban quản lý ký túc xá
+Q057-08,I057,ky_tuc_xa,noi,alias,"Cho hỏi, điều hòa trong phòng bị hư thì đơn vị nào giải quyết?",P057,Ban quản lý ký túc xá
+Q057-09,I057,ky_tuc_xa,han,ten,Thời hạn báo hỏng thiết bị trong phòng như thế nào?,P057,báo ngay trong ngày phát hiện
+Q057-10,I057,ky_tuc_xa,han,ten,Hạn chót để báo hỏng thiết bị trong phòng là khi nào?,P057,báo ngay trong ngày phát hiện
+Q057-11,I057,ky_tuc_xa,han,ten,Mình phải báo hỏng thiết bị trong phòng trước thời điểm nào?,P057,báo ngay trong ngày phát hiện
+Q057-12,I057,ky_tuc_xa,han,ten,"Có deadline cho việc báo hỏng thiết bị trong phòng không, là bao giờ?",P057,báo ngay trong ngày phát hiện
+Q057-13,I057,ky_tuc_xa,han,alias,"Em điều hòa trong phòng bị hư, vậy hạn xử lý là bao lâu?",P057,báo ngay trong ngày phát hiện
+Q057-14,I057,ky_tuc_xa,han,alias,Mình điều hòa trong phòng bị hư thì phải làm trước khi nào?,P057,báo ngay trong ngày phát hiện
+Q057-15,I057,ky_tuc_xa,han,alias,"Bạn ơi, điều hòa trong phòng bị hư thì có hạn chót không?",P057,báo ngay trong ngày phát hiện
+Q057-16,I057,ky_tuc_xa,han,alias,"Cho hỏi, điều hòa trong phòng bị hư thì thời gian nộp hồ sơ ra sao?",P057,báo ngay trong ngày phát hiện
+Q057-17,I057,ky_tuc_xa,phi,ten,Lệ phí báo hỏng thiết bị trong phòng là bao nhiêu?,P057,miễn phí
+Q057-18,I057,ky_tuc_xa,phi,ten,Báo hỏng thiết bị trong phòng có mất phí không?,P057,miễn phí
+Q057-19,I057,ky_tuc_xa,phi,ten,Chi phí để báo hỏng thiết bị trong phòng là bao nhiêu tiền?,P057,miễn phí
+Q057-20,I057,ky_tuc_xa,phi,ten,Mình báo hỏng thiết bị trong phòng thì phải đóng bao nhiêu?,P057,miễn phí
+Q057-21,I057,ky_tuc_xa,phi,alias,"Em điều hòa trong phòng bị hư, vậy tốn bao nhiêu tiền?",P057,miễn phí
+Q057-22,I057,ky_tuc_xa,phi,alias,Mình điều hòa trong phòng bị hư thì có phải đóng phí không?,P057,miễn phí
+Q057-23,I057,ky_tuc_xa,phi,alias,"Bạn ơi, điều hòa trong phòng bị hư thì hết bao nhiêu vậy?",P057,miễn phí
+Q057-24,I057,ky_tuc_xa,phi,alias,"Cho hỏi, điều hòa trong phòng bị hư thì chi phí thế nào?",P057,miễn phí
+Q063-01,I063,thu_vien_cntt,noi,ten,Muốn gia hạn sách đã mượn thì thực hiện ở đâu?,P063,Thư viện trung tâm
+Q063-02,I063,thu_vien_cntt,noi,ten,Thủ tục gia hạn sách đã mượn làm tại đơn vị nào?,P063,Thư viện trung tâm
+Q063-03,I063,thu_vien_cntt,noi,ten,Nơi tiếp nhận hồ sơ gia hạn sách đã mượn là đâu ạ?,P063,Thư viện trung tâm
+Q063-04,I063,thu_vien_cntt,noi,ten,"Mình cần gia hạn sách đã mượn, phải liên hệ phòng ban nào vậy?",P063,Thư viện trung tâm
+Q063-05,I063,thu_vien_cntt,noi,alias,"Em chưa đọc xong sách muốn mượn thêm, thì làm ở đâu ạ?",P063,Thư viện trung tâm
+Q063-06,I063,thu_vien_cntt,noi,alias,Mình chưa đọc xong sách muốn mượn thêm thì liên hệ phòng nào?,P063,Thư viện trung tâm
+Q063-07,I063,thu_vien_cntt,noi,alias,"Bạn ơi, chưa đọc xong sách muốn mượn thêm thì phải đến đâu để làm thủ tục?",P063,Thư viện trung tâm
+Q063-08,I063,thu_vien_cntt,noi,alias,"Cho hỏi, chưa đọc xong sách muốn mượn thêm thì đơn vị nào giải quyết?",P063,Thư viện trung tâm
+Q063-09,I063,thu_vien_cntt,han,ten,Thời hạn gia hạn sách đã mượn như thế nào?,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-10,I063,thu_vien_cntt,han,ten,Hạn chót để gia hạn sách đã mượn là khi nào?,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-11,I063,thu_vien_cntt,han,ten,Mình phải gia hạn sách đã mượn trước thời điểm nào?,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-12,I063,thu_vien_cntt,han,ten,"Có deadline cho việc gia hạn sách đã mượn không, là bao giờ?",P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-13,I063,thu_vien_cntt,han,alias,"Em chưa đọc xong sách muốn mượn thêm, vậy hạn xử lý là bao lâu?",P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-14,I063,thu_vien_cntt,han,alias,Mình chưa đọc xong sách muốn mượn thêm thì phải làm trước khi nào?,P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-15,I063,thu_vien_cntt,han,alias,"Bạn ơi, chưa đọc xong sách muốn mượn thêm thì có hạn chót không?",P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-16,I063,thu_vien_cntt,han,alias,"Cho hỏi, chưa đọc xong sách muốn mượn thêm thì thời gian nộp hồ sơ ra sao?",P063,gia hạn trước ngày hết hạn 1 ngày
+Q063-17,I063,thu_vien_cntt,phi,ten,Lệ phí gia hạn sách đã mượn là bao nhiêu?,P063,miễn phí
+Q063-18,I063,thu_vien_cntt,phi,ten,Gia hạn sách đã mượn có mất phí không?,P063,miễn phí
+Q063-19,I063,thu_vien_cntt,phi,ten,Chi phí để gia hạn sách đã mượn là bao nhiêu tiền?,P063,miễn phí
+Q063-20,I063,thu_vien_cntt,phi,ten,Mình gia hạn sách đã mượn thì phải đóng bao nhiêu?,P063,miễn phí
+Q063-21,I063,thu_vien_cntt,phi,alias,"Em chưa đọc xong sách muốn mượn thêm, vậy tốn bao nhiêu tiền?",P063,miễn phí
+Q063-22,I063,thu_vien_cntt,phi,alias,Mình chưa đọc xong sách muốn mượn thêm thì có phải đóng phí không?,P063,miễn phí
+Q063-23,I063,thu_vien_cntt,phi,alias,"Bạn ơi, chưa đọc xong sách muốn mượn thêm thì hết bao nhiêu vậy?",P063,miễn phí
+Q063-24,I063,thu_vien_cntt,phi,alias,"Cho hỏi, chưa đọc xong sách muốn mượn thêm thì chi phí thế nào?",P063,miễn phí
+Q066-01,I066,thu_vien_cntt,noi,ten,Muốn cấp lại mật khẩu cổng thông tin thì thực hiện ở đâu?,P066,Trung tâm Công nghệ thông tin
+Q066-02,I066,thu_vien_cntt,noi,ten,Thủ tục cấp lại mật khẩu cổng thông tin làm tại đơn vị nào?,P066,Trung tâm Công nghệ thông tin
+Q066-03,I066,thu_vien_cntt,noi,ten,Nơi tiếp nhận hồ sơ cấp lại mật khẩu cổng thông tin là đâu ạ?,P066,Trung tâm Công nghệ thông tin
+Q066-04,I066,thu_vien_cntt,noi,ten,"Mình cần cấp lại mật khẩu cổng thông tin, phải liên hệ phòng ban nào vậy?",P066,Trung tâm Công nghệ thông tin
+Q066-05,I066,thu_vien_cntt,noi,alias,"Em quên mật khẩu không đăng nhập được, thì làm ở đâu ạ?",P066,Trung tâm Công nghệ thông tin
+Q066-06,I066,thu_vien_cntt,noi,alias,Mình quên mật khẩu không đăng nhập được thì liên hệ phòng nào?,P066,Trung tâm Công nghệ thông tin
+Q066-07,I066,thu_vien_cntt,noi,alias,"Bạn ơi, quên mật khẩu không đăng nhập được thì phải đến đâu để làm thủ tục?",P066,Trung tâm Công nghệ thông tin
+Q066-08,I066,thu_vien_cntt,noi,alias,"Cho hỏi, quên mật khẩu không đăng nhập được thì đơn vị nào giải quyết?",P066,Trung tâm Công nghệ thông tin
+Q066-09,I066,thu_vien_cntt,han,ten,Thời hạn cấp lại mật khẩu cổng thông tin như thế nào?,P066,xử lý trong 1 ngày làm việc
+Q066-10,I066,thu_vien_cntt,han,ten,Hạn chót để cấp lại mật khẩu cổng thông tin là khi nào?,P066,xử lý trong 1 ngày làm việc
+Q066-11,I066,thu_vien_cntt,han,ten,Mình phải cấp lại mật khẩu cổng thông tin trước thời điểm nào?,P066,xử lý trong 1 ngày làm việc
+Q066-12,I066,thu_vien_cntt,han,ten,"Có deadline cho việc cấp lại mật khẩu cổng thông tin không, là bao giờ?",P066,xử lý trong 1 ngày làm việc
+Q066-13,I066,thu_vien_cntt,han,alias,"Em quên mật khẩu không đăng nhập được, vậy hạn xử lý là bao lâu?",P066,xử lý trong 1 ngày làm việc
+Q066-14,I066,thu_vien_cntt,han,alias,Mình quên mật khẩu không đăng nhập được thì phải làm trước khi nào?,P066,xử lý trong 1 ngày làm việc
+Q066-15,I066,thu_vien_cntt,han,alias,"Bạn ơi, quên mật khẩu không đăng nhập được thì có hạn chót không?",P066,xử lý trong 1 ngày làm việc
+Q066-16,I066,thu_vien_cntt,han,alias,"Cho hỏi, quên mật khẩu không đăng nhập được thì thời gian nộp hồ sơ ra sao?",P066,xử lý trong 1 ngày làm việc
+Q066-17,I066,thu_vien_cntt,phi,ten,Lệ phí cấp lại mật khẩu cổng thông tin là bao nhiêu?,P066,miễn phí
+Q066-18,I066,thu_vien_cntt,phi,ten,Cấp lại mật khẩu cổng thông tin có mất phí không?,P066,miễn phí
+Q066-19,I066,thu_vien_cntt,phi,ten,Chi phí để cấp lại mật khẩu cổng thông tin là bao nhiêu tiền?,P066,miễn phí
+Q066-20,I066,thu_vien_cntt,phi,ten,Mình cấp lại mật khẩu cổng thông tin thì phải đóng bao nhiêu?,P066,miễn phí
+Q066-21,I066,thu_vien_cntt,phi,alias,"Em quên mật khẩu không đăng nhập được, vậy tốn bao nhiêu tiền?",P066,miễn phí
+Q066-22,I066,thu_vien_cntt,phi,alias,Mình quên mật khẩu không đăng nhập được thì có phải đóng phí không?,P066,miễn phí
+Q066-23,I066,thu_vien_cntt,phi,alias,"Bạn ơi, quên mật khẩu không đăng nhập được thì hết bao nhiêu vậy?",P066,miễn phí
+Q066-24,I066,thu_vien_cntt,phi,alias,"Cho hỏi, quên mật khẩu không đăng nhập được thì chi phí thế nào?",P066,miễn phí
+Q070-01,I070,thu_vien_cntt,noi,ten,Muốn truy cập cơ sở dữ liệu học thuật từ ngoài trường thì thực hiện ở đâu?,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-02,I070,thu_vien_cntt,noi,ten,Thủ tục truy cập cơ sở dữ liệu học thuật từ ngoài trường làm tại đơn vị nào?,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-03,I070,thu_vien_cntt,noi,ten,Nơi tiếp nhận hồ sơ truy cập cơ sở dữ liệu học thuật từ ngoài trường là đâu ạ?,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-04,I070,thu_vien_cntt,noi,ten,"Mình cần truy cập cơ sở dữ liệu học thuật từ ngoài trường, phải liên hệ phòng ban nào vậy?",P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-05,I070,thu_vien_cntt,noi,alias,"Em ở nhà muốn đọc bài báo khoa học của thư viện, thì làm ở đâu ạ?",P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-06,I070,thu_vien_cntt,noi,alias,Mình ở nhà muốn đọc bài báo khoa học của thư viện thì liên hệ phòng nào?,P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-07,I070,thu_vien_cntt,noi,alias,"Bạn ơi, ở nhà muốn đọc bài báo khoa học của thư viện thì phải đến đâu để làm thủ tục?",P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-08,I070,thu_vien_cntt,noi,alias,"Cho hỏi, ở nhà muốn đọc bài báo khoa học của thư viện thì đơn vị nào giải quyết?",P070,cổng VPN của Trung tâm Công nghệ thông tin
+Q070-09,I070,thu_vien_cntt,han,ten,Thời hạn truy cập cơ sở dữ liệu học thuật từ ngoài trường như thế nào?,P070,bất kỳ lúc nào
+Q070-10,I070,thu_vien_cntt,han,ten,Hạn chót để truy cập cơ sở dữ liệu học thuật từ ngoài trường là khi nào?,P070,bất kỳ lúc nào
+Q070-11,I070,thu_vien_cntt,han,ten,Mình phải truy cập cơ sở dữ liệu học thuật từ ngoài trường trước thời điểm nào?,P070,bất kỳ lúc nào
+Q070-12,I070,thu_vien_cntt,han,ten,"Có deadline cho việc truy cập cơ sở dữ liệu học thuật từ ngoài trường không, là bao giờ?",P070,bất kỳ lúc nào
+Q070-13,I070,thu_vien_cntt,han,alias,"Em ở nhà muốn đọc bài báo khoa học của thư viện, vậy hạn xử lý là bao lâu?",P070,bất kỳ lúc nào
+Q070-14,I070,thu_vien_cntt,han,alias,Mình ở nhà muốn đọc bài báo khoa học của thư viện thì phải làm trước khi nào?,P070,bất kỳ lúc nào
+Q070-15,I070,thu_vien_cntt,han,alias,"Bạn ơi, ở nhà muốn đọc bài báo khoa học của thư viện thì có hạn chót không?",P070,bất kỳ lúc nào
+Q070-16,I070,thu_vien_cntt,han,alias,"Cho hỏi, ở nhà muốn đọc bài báo khoa học của thư viện thì thời gian nộp hồ sơ ra sao?",P070,bất kỳ lúc nào
+Q070-17,I070,thu_vien_cntt,phi,ten,Lệ phí truy cập cơ sở dữ liệu học thuật từ ngoài trường là bao nhiêu?,P070,miễn phí
+Q070-18,I070,thu_vien_cntt,phi,ten,Truy cập cơ sở dữ liệu học thuật từ ngoài trường có mất phí không?,P070,miễn phí
+Q070-19,I070,thu_vien_cntt,phi,ten,Chi phí để truy cập cơ sở dữ liệu học thuật từ ngoài trường là bao nhiêu tiền?,P070,miễn phí
+Q070-20,I070,thu_vien_cntt,phi,ten,Mình truy cập cơ sở dữ liệu học thuật từ ngoài trường thì phải đóng bao nhiêu?,P070,miễn phí
+Q070-21,I070,thu_vien_cntt,phi,alias,"Em ở nhà muốn đọc bài báo khoa học của thư viện, vậy tốn bao nhiêu tiền?",P070,miễn phí
+Q070-22,I070,thu_vien_cntt,phi,alias,Mình ở nhà muốn đọc bài báo khoa học của thư viện thì có phải đóng phí không?,P070,miễn phí
+Q070-23,I070,thu_vien_cntt,phi,alias,"Bạn ơi, ở nhà muốn đọc bài báo khoa học của thư viện thì hết bao nhiêu vậy?",P070,miễn phí
+Q070-24,I070,thu_vien_cntt,phi,alias,"Cho hỏi, ở nhà muốn đọc bài báo khoa học của thư viện thì chi phí thế nào?",P070,miễn phí
+Q076-01,I076,ctsv,noi,ten,Muốn đánh giá điểm rèn luyện thì thực hiện ở đâu?,P076,cổng thông tin sinh viên
+Q076-02,I076,ctsv,noi,ten,Thủ tục đánh giá điểm rèn luyện làm tại đơn vị nào?,P076,cổng thông tin sinh viên
+Q076-03,I076,ctsv,noi,ten,Nơi tiếp nhận hồ sơ đánh giá điểm rèn luyện là đâu ạ?,P076,cổng thông tin sinh viên
+Q076-04,I076,ctsv,noi,ten,"Mình cần đánh giá điểm rèn luyện, phải liên hệ phòng ban nào vậy?",P076,cổng thông tin sinh viên
+Q076-05,I076,ctsv,noi,alias,"Em cuối kỳ phải tự chấm điểm rèn luyện, thì làm ở đâu ạ?",P076,cổng thông tin sinh viên
+Q076-06,I076,ctsv,noi,alias,Mình cuối kỳ phải tự chấm điểm rèn luyện thì liên hệ phòng nào?,P076,cổng thông tin sinh viên
+Q076-07,I076,ctsv,noi,alias,"Bạn ơi, cuối kỳ phải tự chấm điểm rèn luyện thì phải đến đâu để làm thủ tục?",P076,cổng thông tin sinh viên
+Q076-08,I076,ctsv,noi,alias,"Cho hỏi, cuối kỳ phải tự chấm điểm rèn luyện thì đơn vị nào giải quyết?",P076,cổng thông tin sinh viên
+Q076-09,I076,ctsv,han,ten,Thời hạn đánh giá điểm rèn luyện như thế nào?,P076,2 tuần cuối học kỳ
+Q076-10,I076,ctsv,han,ten,Hạn chót để đánh giá điểm rèn luyện là khi nào?,P076,2 tuần cuối học kỳ
+Q076-11,I076,ctsv,han,ten,Mình phải đánh giá điểm rèn luyện trước thời điểm nào?,P076,2 tuần cuối học kỳ
+Q076-12,I076,ctsv,han,ten,"Có deadline cho việc đánh giá điểm rèn luyện không, là bao giờ?",P076,2 tuần cuối học kỳ
+Q076-13,I076,ctsv,han,alias,"Em cuối kỳ phải tự chấm điểm rèn luyện, vậy hạn xử lý là bao lâu?",P076,2 tuần cuối học kỳ
+Q076-14,I076,ctsv,han,alias,Mình cuối kỳ phải tự chấm điểm rèn luyện thì phải làm trước khi nào?,P076,2 tuần cuối học kỳ
+Q076-15,I076,ctsv,han,alias,"Bạn ơi, cuối kỳ phải tự chấm điểm rèn luyện thì có hạn chót không?",P076,2 tuần cuối học kỳ
+Q076-16,I076,ctsv,han,alias,"Cho hỏi, cuối kỳ phải tự chấm điểm rèn luyện thì thời gian nộp hồ sơ ra sao?",P076,2 tuần cuối học kỳ
+Q076-17,I076,ctsv,phi,ten,Lệ phí đánh giá điểm rèn luyện là bao nhiêu?,P076,miễn phí
+Q076-18,I076,ctsv,phi,ten,Đánh giá điểm rèn luyện có mất phí không?,P076,miễn phí
+Q076-19,I076,ctsv,phi,ten,Chi phí để đánh giá điểm rèn luyện là bao nhiêu tiền?,P076,miễn phí
+Q076-20,I076,ctsv,phi,ten,Mình đánh giá điểm rèn luyện thì phải đóng bao nhiêu?,P076,miễn phí
+Q076-21,I076,ctsv,phi,alias,"Em cuối kỳ phải tự chấm điểm rèn luyện, vậy tốn bao nhiêu tiền?",P076,miễn phí
+Q076-22,I076,ctsv,phi,alias,Mình cuối kỳ phải tự chấm điểm rèn luyện thì có phải đóng phí không?,P076,miễn phí
+Q076-23,I076,ctsv,phi,alias,"Bạn ơi, cuối kỳ phải tự chấm điểm rèn luyện thì hết bao nhiêu vậy?",P076,miễn phí
+Q076-24,I076,ctsv,phi,alias,"Cho hỏi, cuối kỳ phải tự chấm điểm rèn luyện thì chi phí thế nào?",P076,miễn phí
+Q077-01,I077,ctsv,noi,ten,Muốn khiếu nại điểm rèn luyện thì thực hiện ở đâu?,P077,Phòng Công tác sinh viên
+Q077-02,I077,ctsv,noi,ten,Thủ tục khiếu nại điểm rèn luyện làm tại đơn vị nào?,P077,Phòng Công tác sinh viên
+Q077-03,I077,ctsv,noi,ten,Nơi tiếp nhận hồ sơ khiếu nại điểm rèn luyện là đâu ạ?,P077,Phòng Công tác sinh viên
+Q077-04,I077,ctsv,noi,ten,"Mình cần khiếu nại điểm rèn luyện, phải liên hệ phòng ban nào vậy?",P077,Phòng Công tác sinh viên
+Q077-05,I077,ctsv,noi,alias,"Em điểm rèn luyện bị chấm thấp hơn thực tế, thì làm ở đâu ạ?",P077,Phòng Công tác sinh viên
+Q077-06,I077,ctsv,noi,alias,Mình điểm rèn luyện bị chấm thấp hơn thực tế thì liên hệ phòng nào?,P077,Phòng Công tác sinh viên
+Q077-07,I077,ctsv,noi,alias,"Bạn ơi, điểm rèn luyện bị chấm thấp hơn thực tế thì phải đến đâu để làm thủ tục?",P077,Phòng Công tác sinh viên
+Q077-08,I077,ctsv,noi,alias,"Cho hỏi, điểm rèn luyện bị chấm thấp hơn thực tế thì đơn vị nào giải quyết?",P077,Phòng Công tác sinh viên
+Q077-09,I077,ctsv,han,ten,Thời hạn khiếu nại điểm rèn luyện như thế nào?,P077,5 ngày kể từ khi công bố kết quả
+Q077-10,I077,ctsv,han,ten,Hạn chót để khiếu nại điểm rèn luyện là khi nào?,P077,5 ngày kể từ khi công bố kết quả
+Q077-11,I077,ctsv,han,ten,Mình phải khiếu nại điểm rèn luyện trước thời điểm nào?,P077,5 ngày kể từ khi công bố kết quả
+Q077-12,I077,ctsv,han,ten,"Có deadline cho việc khiếu nại điểm rèn luyện không, là bao giờ?",P077,5 ngày kể từ khi công bố kết quả
+Q077-13,I077,ctsv,han,alias,"Em điểm rèn luyện bị chấm thấp hơn thực tế, vậy hạn xử lý là bao lâu?",P077,5 ngày kể từ khi công bố kết quả
+Q077-14,I077,ctsv,han,alias,Mình điểm rèn luyện bị chấm thấp hơn thực tế thì phải làm trước khi nào?,P077,5 ngày kể từ khi công bố kết quả
+Q077-15,I077,ctsv,han,alias,"Bạn ơi, điểm rèn luyện bị chấm thấp hơn thực tế thì có hạn chót không?",P077,5 ngày kể từ khi công bố kết quả
+Q077-16,I077,ctsv,han,alias,"Cho hỏi, điểm rèn luyện bị chấm thấp hơn thực tế thì thời gian nộp hồ sơ ra sao?",P077,5 ngày kể từ khi công bố kết quả
+Q077-17,I077,ctsv,phi,ten,Lệ phí khiếu nại điểm rèn luyện là bao nhiêu?,P077,miễn phí
+Q077-18,I077,ctsv,phi,ten,Khiếu nại điểm rèn luyện có mất phí không?,P077,miễn phí
+Q077-19,I077,ctsv,phi,ten,Chi phí để khiếu nại điểm rèn luyện là bao nhiêu tiền?,P077,miễn phí
+Q077-20,I077,ctsv,phi,ten,Mình khiếu nại điểm rèn luyện thì phải đóng bao nhiêu?,P077,miễn phí
+Q077-21,I077,ctsv,phi,alias,"Em điểm rèn luyện bị chấm thấp hơn thực tế, vậy tốn bao nhiêu tiền?",P077,miễn phí
+Q077-22,I077,ctsv,phi,alias,Mình điểm rèn luyện bị chấm thấp hơn thực tế thì có phải đóng phí không?,P077,miễn phí
+Q077-23,I077,ctsv,phi,alias,"Bạn ơi, điểm rèn luyện bị chấm thấp hơn thực tế thì hết bao nhiêu vậy?",P077,miễn phí
+Q077-24,I077,ctsv,phi,alias,"Cho hỏi, điểm rèn luyện bị chấm thấp hơn thực tế thì chi phí thế nào?",P077,miễn phí

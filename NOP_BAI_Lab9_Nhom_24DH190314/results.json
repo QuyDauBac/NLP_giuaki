@@ -40,8 +40,16 @@
       }
     },
     "lora": {
-      "trainable_params": null,
-      "note": "chưa chạy (không có GPU)"
+      "trainable_params": 891656,
+      "lora_only_params": 294912,
+      "clean": {
+        "acc": 0.8181818181818182,
+        "macro_f1": 0.8252081512558933
+      },
+      "noisy": {
+        "acc": 0.7916666666666666,
+        "macro_f1": 0.7986746609367266
+      }
     }
   },
   "retrieval": {
@@ -109,7 +117,7 @@
     "top_k": 2,
     "n_questions": 132,
     "answer_hit_rate": 0.8787878787878788,
-    "tau": 0.4517055153846741,
+    "tau": 0.4517053961753845,
     "abstain_rate_ood": 0.3,
     "false_abstain_rate": 0.06818181818181818
   },
@@ -187,9 +195,9 @@
   },
   "own_queries": {
     "n": 20,
-    "recall@3": 0.9,
+    "recall@3": 0.95,
     "recall@3_by_topic": {
-      "thi_diem": 0.8,
+      "thi_diem": 0.9,
       "thu_vien_cntt": 1.0
     }
   }

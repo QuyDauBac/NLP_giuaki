@@ -11,7 +11,7 @@
 | TF-IDF+LR | 0.653 | 0.634 | 0.508 | 0.487 |
 | Embedding+LR | 0.636 | 0.620 | 0.614 | 0.593 |
 
-LoRA (C4, nâng cao): chưa chạy vì không có GPU.
+LoRA `xlm-roberta-base` (C4): 891,656 tham số huấn luyện được, acc sạch 0.818 / nhiễu 0.792.
 
 **Truy hồi (retr_test):**
 
@@ -24,7 +24,7 @@ LoRA (C4, nâng cao): chưa chạy vì không có GPU.
 | Hybrid α=0.7 – sạch | 0.758 | 0.909 | 0.962 | 0.985 | 0.838 | 0.874 |
 | Hybrid α=0.7 – nhiễu | 0.758 | 0.894 | 0.947 | 0.977 | 0.832 | 0.867 |
 
-**LLM và RAG:** zero-shot = 0.400, 6-shot = 0.533 (`Qwen/Qwen2.5-1.5B-Instruct`, temperature 0, 30 câu); answer_hit_rate = 0.879 (132 câu, top-2); ngưỡng τ = 0.452: abstain_rate_ood = 0.300, false_abstain_rate = 0.068. Recall@3 trên 20 câu tự viết = 0.900.
+**LLM và RAG:** zero-shot = 0.400, 6-shot = 0.533 (`Qwen/Qwen2.5-1.5B-Instruct`, temperature 0, 30 câu); answer_hit_rate = 0.879 (132 câu, top-2); ngưỡng τ = 0.452: abstain_rate_ood = 0.300, false_abstain_rate = 0.068. Recall@3 trên 20 câu tự viết = 0.950.
 
 **Phần E (mỗi thành viên một thẻ, code khớp lời giải tay):**
 
@@ -47,10 +47,10 @@ Trên retr_test sạch: bỏ dense (α=0) 0.804; hybrid 0.838; bỏ BM25 (α=1) 
 Hạn chế: dữ liệu giả lập, KB 80 đoạn theo khuôn mẫu; dev/test nhỏ nên α, τ dao động; RAG trích xuất bằng regex phụ thuộc cách viết của đoạn. Rủi ro: ảo giác – khi truy hồi sai, hệ thống vẫn trả lời tự tin bằng thông tin của quy định khác. Cải tiến: fine-tune mô hình embedding bằng cặp (câu hỏi, đoạn đúng) của train để cải thiện dense, hybrid và ngưỡng từ chối.
 
 ## 5. Nhật ký sử dụng AI
-- **Công cụ:** Claude (Anthropic).
-- **AI hỗ trợ:** đọc đề; viết và rút gọn code các phần C–F trong notebook; soạn lời giải tham khảo E1–E3 để đối chiếu; gợi ý 20 câu hỏi `own_queries.csv`; soạn nháp báo cáo (số liệu sinh tự động từ notebook).
+- **Công cụ:** Claude (Anthropic), là công cụ AI duy nhất nhóm sử dụng.
+- **Phần AI làm:** đọc đề và đối chiếu yêu cầu; viết và rút gọn code các phần C–F; soạn nháp 20 câu hỏi `own_queries.csv`; soạn nháp lời giải thích các câu sai (D1, F2) và các ô nhận xét; soạn lời giải từng bước E1–E3; soạn nháp báo cáo (số liệu sinh tự động từ notebook).
 - **Giữ nguyên code của giảng viên:** `normalize`, `BM25`, các hàm metric truy hồi, baseline TF-IDF+LR, `save_results`.
-- **Nhóm tự làm và kiểm chứng:** chạy lại toàn bộ notebook, làm tay E1–E3 theo thẻ riêng, đọc và phân loại nguyên nhân các câu sai; α và τ chỉ chọn trên dev.
+- **Phần nhóm làm và kiểm chứng:** chạy lại toàn bộ notebook; đọc và kiểm tra lại từng câu hỏi, từng lời giải thích do AI soạn; mỗi thành viên chép tay lại lời giải E1–E3 theo thẻ riêng và đối chiếu với kết quả code; α và τ chỉ chọn trên dev.
 
 ## 6. Phân công công việc
 | Họ tên | MSSV | Vai trò | Phần phụ trách |
